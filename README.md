@@ -2,13 +2,18 @@
 
 # Hi, I'm Fidel Lim <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fidellim&label=Profile%20views&color=0e75b6&style=flat" alt="fidellim" /> </p>
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/_fidel_lim_/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/fidellim/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/fidellim)
+[<img src="https://komarev.com/ghpvc/?username=fidellim&label=Profile%20views&color=0e75b6&style=flat" alt="fidellim" />](https://github.com/fidellim/fidellim)
 
-I am a software developer and UI/UX developer from Philippines :philippines:
+I am a software developer and UI/UX designer from Philippines:philippines:. At the moment, I am more focus on building front-end projects to build up my portfolio. Whenever I have free time, I try to learn other technologies.
 
+- 🔭 I’m currently looking for opportunies
 - 🌱 I’m currently learning **React**
-
 - 📫 How to reach me **lim.fidel@gmail.com**
+- 📝 Check out my [resume](https://drive.google.com/file/d/1f8sRvf3AL8kXhivb8ghlEB3LWbbmiCO1/view?usp=sharing)
+- 📁 Check out my [portfolio](https://fidellim-portfolio.netlify.app/)
 
 ### Tools & Technologies
 
