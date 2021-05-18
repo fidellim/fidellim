@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fidellim&label=Profile%20views&color=0e75b6&style=flat" alt="fidellim" /> </p>
 
-<h3 align="center">Software developer, UI/UX designer</h3>
+I am a software developer and UI/UX developer from Philippines :philippines:
 
 - 🌱 I’m currently learning **React**
 
