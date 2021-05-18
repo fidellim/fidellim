@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fidellim&label=Profile%20views&color=0e75b6&style=flat" alt="fidellim" /> </p>
 
-![Solution PC](tokyoDowntown.png)
+![Tokyo Downtown](/tokyoDowntown.png)
 
 - 🌱 I’m currently learning **React**
 
