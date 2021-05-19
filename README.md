@@ -12,7 +12,7 @@ I am a software developer and UI/UX designer from Philippines:philippines:. At t
 - 🔭 I’m currently looking for opportunies
 - 🌱 I’m currently learning **React**
 - 📫 How to reach me **lim.fidel@gmail.com**
-- 📝 Check out my [resume](https://drive.google.com/file/d/1f8sRvf3AL8kXhivb8ghlEB3LWbbmiCO1/view?usp=sharing)
+- 📝 Check out my [resume](https://drive.google.com/file/d/1auMrMw8-xNCBohZheZa-dW3P5sF0GJF8/view?usp=sharing)
 - 📁 Check out my [portfolio](https://fidellim-portfolio.netlify.app/)
 
 ### Tools & Technologies
