@@ -7,7 +7,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/fidellim)
 [<img src="https://komarev.com/ghpvc/?username=fidellim&label=Profile%20views&color=0e75b6&style=flat" alt="fidellim" />](https://github.com/fidellim/fidellim)
 
-I am a software developer and UI/UX designer from Philippines:philippines:. At the moment, I am more focus on building front-end projects to build up my portfolio. Whenever I have free time, I try to learn other technologies.
+I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX designer. At the moment, I am more focus on building front-end projects to build up my portfolio. Whenever I have free time, I try to learn other technologies.
 
 - 🔭 I’m currently looking for opportunies
 - 🌱 I’m currently learning **React**
