@@ -12,7 +12,7 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 - 🔭 I’m currently looking for opportunies
 - 🌱 I’m currently learning **React**
 - 📫 How to reach me **lim.fidel@gmail.com**
-- 📝 Check out my [resume](https://drive.google.com/file/d/1OL2CN-AoFVsOvuS290mseKJWAT98Nk7j/view?usp=sharing)
+- 📝 Check out my [resume](https://drive.google.com/file/d/12o73Dl_-TSjDzTQmxxTFEbZvliw326vH/view?usp=sharing)
 - 📁 Check out my [portfolio](https://fidellim-portfolio.netlify.app/)
 
 ### Tools & Technologies
