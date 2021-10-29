@@ -7,10 +7,10 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/fidellim)
 [<img src="https://komarev.com/ghpvc/?username=fidellim&label=Profile%20views&color=0e75b6&style=flat" alt="fidellim" />](https://github.com/fidellim/fidellim)
 
-I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX designer. At the moment, I am more focus on building front-end projects to build up my portfolio. Whenever I have free time, I try to learn other technologies.
+I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX designer. At the moment, I am focused on design and implement front-end projects to build up my portfolio. Whenever I have free time, I try to learn other technologies.
 
 - 🔭 I’m currently looking for opportunies
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React**, **NodeJS**, and **Redux**
 - 📫 How to reach me **lim.fidel@gmail.com**
 - 📝 Check out my [resume](https://drive.google.com/file/d/12o73Dl_-TSjDzTQmxxTFEbZvliw326vH/view?usp=sharing)
 - 📁 Check out my [portfolio](https://fidellim-portfolio.netlify.app/)
@@ -23,14 +23,21 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=black&logoWidth=25&style=flat-square)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&logoWidth=25&style=flat-square)
+![SCSS](https://img.shields.io/badge/-SASS-C76494?logo=sass&logoColor=white&logoWidth=25&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-15B3C0?logo=tailwindcss&logoColor=white&logoWidth=25&style=flat-square)
+
+![Firebase](https://img.shields.io/badge/-Firebase-F05032?logo=firebase&logoColor=white&style=flat-square)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
+![Node](https://img.shields.io/badge/-NodeJS-F05032?logo=node.js&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe%20xd&logoColor=black&logoWidth=25&style=flat-square)
-
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat-square)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&style=flat-square)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square)
+
+![PWA](https://img.shields.io/badge/-PWA-550EBE?logo=pwa&logoColor=white&style=flat-square)
 
 ### Github Stats
 
