@@ -5,6 +5,7 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=flat-square)](https://www.instagram.com/_fidel_lim_/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/fidellim/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/fidellim)
+[![Frontend Mentor](https://img.shields.io/badge/-Frontend_Mentor-3F54A3?logo=frontendmentor&logoColor=white&style=flat-square)](https://www.frontendmentor.io/profile/fidellim)
 [<img src="https://komarev.com/ghpvc/?username=fidellim&label=Profile%20views&color=0e75b6&style=flat" alt="fidellim" />](https://github.com/fidellim/fidellim)
 
 I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX designer. At the moment, I am focused on design and implement front-end projects to build up my portfolio. Whenever I have free time, I try to learn other technologies.
