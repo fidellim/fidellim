@@ -47,7 +47,7 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 <details>	
 <summary style="position:relative">
 <div style="position:absolute;top:-5px;left:15px;display:flex;justify-content:flex-start;align-items:center">
-<h3 style="inline-block">Learning at </h3><img style="margin-left:5px"src="https://img.shields.io/badge/-Abu_Dhabi-000000?logo=42&style=flat-square">
+<h3 style="inline">Learning at </h3><img style="margin-left:5px"src="https://img.shields.io/badge/-Abu_Dhabi-000000?logo=42&style=flat-square">
 </div>
 </summary>
 
