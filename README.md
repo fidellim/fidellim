@@ -45,7 +45,7 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=fidellim&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="fidellim" />
 
 <details>	
-<summary><img src="https://img.shields.io/badge/-Abu_Dhabi-000000?logo=42&style=flat-square"></summary>
+<summary>Learning at <img src="https://img.shields.io/badge/-Abu_Dhabi-000000?logo=42&style=flat-square"></summary>
 
 <img src="https://badge42.herokuapp.com/api/stats/flim?privacyEmail=true">
 <img src="https://badge42.herokuapp.com/api/stats/flim?cursus=C%20Piscine&privacyEmail=true">
