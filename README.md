@@ -46,9 +46,7 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <details>	
 <summary style="position:relative">
-<div style="display:inline-block;">
 <h3 style="display:inline-block;">Learning at </h3><img style="margin-left:5px;display:inline-block;"src="https://img.shields.io/badge/-Abu_Dhabi-000000?logo=42&style=flat-square">
-</div>
 </summary>
 
 <img src="https://badge42.herokuapp.com/api/stats/flim?privacyEmail=true">
