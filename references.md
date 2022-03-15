@@ -12,3 +12,7 @@
 - [Profile related to coding exercise](https://github.com/AbhishekMaira10)
 - [DenverCoder1](https://github.com/DenverCoder1)
 - [sciencepal](https://github.com/sciencepal)
+- [thmsgbrt](https://github.com/thmsgbrt)
+- [guilyx](https://github.com/guilyx/guilyx)
+- [minoveaz](https://github.com/minoveaz)
+- [cxyfreedom](https://github.com/cxyfreedom)
