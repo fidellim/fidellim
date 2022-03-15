@@ -45,7 +45,7 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 ### Github Stats
 
-<details open>
+<details>
 	<summary>
 		Click here for GitHub Stats 📊
 	</summary>
