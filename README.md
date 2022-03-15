@@ -45,20 +45,20 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 ### Github Stats
 
-<!-- <div style="overflow:auto">
+<details open>
+	<summary>
+		Click here for GitHub Stats 📊
+	</summary>
 
-|        <img src="https://github-readme-stats.vercel.app/api?username=fidellim&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="fidellim" />         | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidellim&layout=compact&langs_count=8&hide=scss,css,html&theme=dracula&border_color=ff4499" alt="fidellim" /> |
-| :------------------------------------------------------------------------------------------------------------------------------------------------------------------: | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://github-readme-streak-stats.herokuapp.com?user=fidellim&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="fidellim" /> |
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidellim&layout=compact&langs_count=8&hide=scss,css,html&theme=dracula&border_color=ff4499" alt="fidellim" />
 
-</div> -->
+<img src="https://github-readme-stats.vercel.app/api?username=fidellim&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="fidellim" />
 
-<a>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fidellim&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="fidellim" />
-</a> 
-<a>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidellim&layout=compact&langs_count=8&hide=scss,css,html&theme=dracula&border_color=ff4499" alt="fidellim" />
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=fidellim&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="fidellim" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+
+</details>
 
 <!-- https://github.com/JaeSeoKim/badge42 -->
 <!-- <details>
@@ -70,5 +70,4 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 <img src="https://badge42.herokuapp.com/api/stats/flim?cursus=C%20Piscine&privacyEmail=true">
 
 </details>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/> -->
+-->
