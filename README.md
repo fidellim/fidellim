@@ -49,7 +49,7 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 	<summary>
 		Click here for GitHub Stats 📊
 	</summary>
-	
+	<br/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidellim&layout=compact&langs_count=8&hide=scss,css,html&theme=dracula&border_color=ff4499" alt="fidellim" />
 <img src="https://github-readme-stats.vercel.app/api?username=fidellim&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="fidellim" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=fidellim&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="fidellim" />
@@ -62,7 +62,7 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 	<summary>
 		Click here for Waka & Other GitHub Stats 📈
 	</summary>
-	
+	<br/>
 <!--START_SECTION:waka-->
 
 <!--END_SECTION:waka-->
