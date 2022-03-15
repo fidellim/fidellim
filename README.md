@@ -45,22 +45,8 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 ### Github Stats
 
-<!-- https://stackoverflow.com/questions/26197579/set-background-color-for-specific-cell-in-markdown-table -->
-<style>
-    .table th {
-        background: #44475a;
-        word-wrap: break-word;
-        text-align: center;
-        border-collapse: collapse;
-    }
-</style>
-
-<div class="table">
-
 | <img src="https://github-readme-stats.vercel.app/api?username=fidellim&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="fidellim" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidellim&layout=compact&langs_count=8&hide=scss,css,html&theme=dracula&border_color=ff4499" alt="fidellim" /> |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-
-</div>
 
 <!-- https://github.com/JaeSeoKim/badge42 -->
 <!-- <details>
