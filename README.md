@@ -64,7 +64,76 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 	</summary>
 	
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-488%20Thousand%20lines%20of%20code-blue)
 
+**🐱 My GitHub Data** 
+
+> 🏆 246 Contributions in the Year 2022
+ > 
+> 📦 165.7 kB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 59 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    60 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.38% 
+🌆 Daytime    192 commits    ██████░░░░░░░░░░░░░░░░░░░   26.82% 
+🌃 Evening    260 commits    █████████░░░░░░░░░░░░░░░░   36.31% 
+🌙 Night      204 commits    ███████░░░░░░░░░░░░░░░░░░   28.49%
+
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday       140 commits    █████░░░░░░░░░░░░░░░░░░░░   19.55% 
+Tuesday      88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.29% 
+Wednesday    66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.22% 
+Thursday     93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.99% 
+Friday       127 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.74% 
+Saturday     93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.99% 
+Sunday       109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.22%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Dubai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in SCSS** 
+
+```text
+SCSS                     15 repos            ████████░░░░░░░░░░░░░░░░░   31.91% 
+HTML                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   21.28% 
+CSS                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.89% 
+JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.89% 
+C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.51%
+
+```
+
+
+
+ Last Updated on 15/03/2022 20:35:01 UTC
 <!--END_SECTION:waka-->
 
 </details>
