@@ -49,96 +49,93 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 	<summary>
 		Click here for GitHub Stats 📊
 	</summary>
-
+	
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidellim&layout=compact&langs_count=8&hide=scss,css,html&theme=dracula&border_color=ff4499" alt="fidellim" />
-
 <img src="https://github-readme-stats.vercel.app/api?username=fidellim&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="fidellim" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=fidellim&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="fidellim" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 
 </details>
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-24%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-30-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 239 Contributions in the Year 2022
- > 
-> 📦 165.7 kB Used in GitHub's Storage 
- > 
+>
+> 📦 165.7 kB Used in GitHub's Storage
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 59 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm a Night 🦉** 
+>
+> 📜 59 Public Repositories
+>
+> 🔑 0 Private Repositories
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning    60 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.46% 
-🌆 Daytime    192 commits    ██████░░░░░░░░░░░░░░░░░░░   27.08% 
-🌃 Evening    258 commits    █████████░░░░░░░░░░░░░░░░   36.39% 
+🌞 Morning    60 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.46%
+🌆 Daytime    192 commits    ██████░░░░░░░░░░░░░░░░░░░   27.08%
+🌃 Evening    258 commits    █████████░░░░░░░░░░░░░░░░   36.39%
 🌙 Night      199 commits    ███████░░░░░░░░░░░░░░░░░░   28.07%
 
 ```
-📅 **I'm Most Productive on Monday** 
+
+📅 **I'm Most Productive on Monday**
 
 ```text
-Monday       140 commits    █████░░░░░░░░░░░░░░░░░░░░   19.75% 
-Tuesday      86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.13% 
-Wednesday    61 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.6% 
-Thursday     93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.12% 
-Friday       127 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.91% 
-Saturday     93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.12% 
+Monday       140 commits    █████░░░░░░░░░░░░░░░░░░░░   19.75%
+Tuesday      86 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.13%
+Wednesday    61 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.6%
+Thursday     93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.12%
+Friday       127 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.91%
+Saturday     93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.12%
 Sunday       109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.37%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Dubai
 
-💬 Programming Languages: 
+💬 Programming Languages:
 No Activity Tracked This Week
 
-🔥 Editors: 
+🔥 Editors:
 No Activity Tracked This Week
 
-🐱‍💻 Projects: 
+🐱‍💻 Projects:
 No Activity Tracked This Week
 
-💻 Operating System: 
+💻 Operating System:
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in SCSS** 
+**I Mostly Code in SCSS**
 
 ```text
-SCSS                     15 repos            ████████░░░░░░░░░░░░░░░░░   31.91% 
-HTML                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   21.28% 
-CSS                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.89% 
-JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.89% 
+SCSS                     15 repos            ████████░░░░░░░░░░░░░░░░░   31.91%
+HTML                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   21.28%
+CSS                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.89%
+JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.89%
 C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.51%
 
 ```
 
-
 **Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/fidellim/fidellim/main/charts/bar_graph.png) 
+![Chart not found](https://raw.githubusercontent.com/fidellim/fidellim/main/charts/bar_graph.png)
 
+Last Updated on 15/03/2022 15:12:52 UTC
 
- Last Updated on 15/03/2022 15:12:52 UTC
 <!--END_SECTION:waka-->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
 
 <!-- https://github.com/JaeSeoKim/badge42 -->
 <!-- <details>
