@@ -6,15 +6,16 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/fidellim/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?logo=twitter&logoColor=white&style=flat-square)](https://twitter.com/fidellim)
 [![Frontend Mentor](https://img.shields.io/badge/-Frontend_Mentor-3F54A3?logo=frontendmentor&logoColor=white&style=flat-square)](https://www.frontendmentor.io/profile/fidellim)
-[<img src="https://komarev.com/ghpvc/?username=fidellim&label=Profile%20views&color=0e75b6&style=flat" alt="fidellim" />](https://github.com/fidellim/fidellim)
+
+[<img src="https://komarev.com/ghpvc/?username=fidellim&label=Profile%20views&color=0e75b6&style=flat-square" alt="fidellim" />](https://github.com/fidellim/fidellim)
+[<img src="https://img.shields.io/badge/Email-lim.fide%40gmail.com-orange?style=flat-square&logo=gmail">](mailto:lim.fidel@gmail.com)
+[<img src="https://img.shields.io/badge/Personal%20Site-fidellim--portfolio.netlify.app-red?style=flat-square&logo=safari">](https://fidellim-portfolio.netlify.app/)
 
 I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX designer. At the moment, I am focused on design and implement front-end projects to build up my portfolio. Whenever I have free time, I try to learn other technologies.
 
 - 🔭 I’m currently looking for opportunies
 - 🌱 I’m currently learning **React**, **NodeJS**, and **Redux**
-- 📫 How to reach me **lim.fidel@gmail.com**
 - 📝 Check out my [resume](https://drive.google.com/file/d/12o73Dl_-TSjDzTQmxxTFEbZvliw326vH/view?usp=sharing)
-- 📁 Check out my [portfolio](https://fidellim-portfolio.netlify.app/)
 
 ### Tools & Technologies
 
@@ -44,9 +45,11 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 ### Github Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=fidellim&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="fidellim" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=fidellim&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="fidellim" /> &nbsp; &nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidellim&layout=compact&langs_count=8&hide=scss,css,html&theme=dracula&border_color=ff4499" alt="fidellim" />
 
-<details>	
+<!-- https://github.com/JaeSeoKim/badge42 -->
+<!-- <details>
 <summary>
 <img src="https://img.shields.io/badge/-Abu_Dhabi-000000?logo=42&style=flat-square">
 </summary>
@@ -55,3 +58,5 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 <img src="https://badge42.herokuapp.com/api/stats/flim?cursus=C%20Piscine&privacyEmail=true">
 
 </details>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/> -->
