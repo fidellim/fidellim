@@ -60,6 +60,10 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 </details>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <!-- https://github.com/JaeSeoKim/badge42 -->
 <!-- <details>
 <summary>
