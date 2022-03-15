@@ -53,7 +53,8 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 </div> -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=fidellim&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="fidellim" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidellim&layout=compact&langs_count=8&hide=scss,css,html&theme=dracula&border_color=ff4499" alt="fidellim" />
+<img style="display:inline" src="https://github-readme-stats.vercel.app/api?username=fidellim&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="fidellim" /> &nbsp;
+<img style="display:inline" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidellim&layout=compact&langs_count=8&hide=scss,css,html&theme=dracula&border_color=ff4499" alt="fidellim" />
 
 <!-- https://github.com/JaeSeoKim/badge42 -->
 <!-- <details>
