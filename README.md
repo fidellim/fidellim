@@ -27,7 +27,7 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&logoWidth=25&style=flat-square)
 ![SCSS](https://img.shields.io/badge/-SASS-C76494?logo=sass&logoColor=white&logoWidth=25&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-15B3C0?logo=tailwindcss&logoColor=white&logoWidth=25&style=flat-square)
-![C](https://img.shields.io/badge/-A8B9CC?logo=C&logoColor=white&logoWidth=25&style=flat-square)
+![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&logoWidth=25&style=flat-square)
 
 ![Firebase](https://img.shields.io/badge/-Firebase-F05032?logo=firebase&logoColor=white&style=flat-square)
@@ -50,9 +50,22 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 		Click here for GitHub Stats 📊
 	</summary>
 	<br/>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidellim&layout=compact&langs_count=8&hide=scss,css,html&theme=dracula&border_color=ff4499" alt="fidellim" />
 <img src="https://github-readme-stats.vercel.app/api?username=fidellim&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="fidellim" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=fidellim&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="fidellim" />
+
+</details>
+
+<details>
+	<summary>
+		Click here for Recent GitHub Activity 🚴
+	</summary>
+	<br/>
+
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
 
 </details>
 
@@ -67,77 +80,76 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-488%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 259 Contributions in the Year 2022
- > 
-> 📦 165.7 kB Used in GitHub's Storage 
- > 
+>
+> 📦 165.7 kB Used in GitHub's Storage
+>
 > 🚫 Not Opted to Hire
- > 
-> 📜 60 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm a Night 🦉** 
+>
+> 📜 60 Public Repositories
+>
+> 🔑 0 Private Repositories
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning    61 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.39% 
-🌆 Daytime    192 commits    ██████░░░░░░░░░░░░░░░░░░░   26.41% 
-🌃 Evening    263 commits    █████████░░░░░░░░░░░░░░░░   36.18% 
+🌞 Morning    61 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.39%
+🌆 Daytime    192 commits    ██████░░░░░░░░░░░░░░░░░░░   26.41%
+🌃 Evening    263 commits    █████████░░░░░░░░░░░░░░░░   36.18%
 🌙 Night      211 commits    ███████░░░░░░░░░░░░░░░░░░   29.02%
 
 ```
-📅 **I'm Most Productive on Monday** 
+
+📅 **I'm Most Productive on Monday**
 
 ```text
-Monday       140 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.26% 
-Tuesday      88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.1% 
-Wednesday    77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.59% 
-Thursday     93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.79% 
-Friday       127 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.47% 
-Saturday     93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.79% 
+Monday       140 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.26%
+Tuesday      88 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.1%
+Wednesday    77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.59%
+Thursday     93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.79%
+Friday       127 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.47%
+Saturday     93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.79%
 Sunday       109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.99%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Dubai
 
-💬 Programming Languages: 
-Markdown                 52 mins             █████████████░░░░░░░░░░░░   54.0% 
+💬 Programming Languages:
+Markdown                 52 mins             █████████████░░░░░░░░░░░░   54.0%
 YAML                     44 mins             ███████████░░░░░░░░░░░░░░   46.0%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  1 hr 36 mins        █████████████████████████   100.0%
 
-🐱‍💻 Projects: 
-Github fidellim README   1 hr 12 mins        ██████████████████░░░░░░░   74.54% 
+🐱‍💻 Projects:
+Github fidellim README   1 hr 12 mins        ██████████████████░░░░░░░   74.54%
 fidellim_readme          24 mins             ██████░░░░░░░░░░░░░░░░░░░   25.46%
 
-💻 Operating System: 
-Windows                  1 hr 12 mins        ██████████████████░░░░░░░   74.54% 
+💻 Operating System:
+Windows                  1 hr 12 mins        ██████████████████░░░░░░░   74.54%
 Mac                      24 mins             ██████░░░░░░░░░░░░░░░░░░░   25.46%
 
 ```
 
-**I Mostly Code in SCSS** 
+**I Mostly Code in SCSS**
 
 ```text
-SCSS                     15 repos            ████████░░░░░░░░░░░░░░░░░   31.91% 
-HTML                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   21.28% 
-CSS                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.89% 
-JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.89% 
+SCSS                     15 repos            ████████░░░░░░░░░░░░░░░░░   31.91%
+HTML                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   21.28%
+CSS                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.89%
+JavaScript               7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.89%
 C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.51%
 
 ```
 
+Last Updated on 16/03/2022 14:52:02 UTC
 
-
- Last Updated on 16/03/2022 14:52:02 UTC
 <!--END_SECTION:waka-->
 
 </details>
