@@ -9,6 +9,7 @@
 - [Waka Readme Stats](https://github.com/anmol098/waka-readme-stats)
 - [GitHub Readme Streak Stats](https://github.com/DenverCoder1/github-readme-streak-stats)
 - [GitHub Readme Streak Stats (Site)](https://github-readme-streak-stats.herokuapp.com/demo/)
+- [GitHub Readme Activity Graph](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ## GitHub Profile Examples
 
@@ -19,3 +20,6 @@
 - [guilyx](https://github.com/guilyx/guilyx)
 - [minoveaz](https://github.com/minoveaz)
 - [cxyfreedom](https://github.com/cxyfreedom)
+- [xiaoluoboding](https://github.com/xiaoluoboding)
+- [thmsgbrt](https://github.com/thmsgbrt/thmsgbrt)
+- [guilyx](https://github.com/guilyx/guilyx)
