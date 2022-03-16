@@ -27,3 +27,4 @@
 - [xiaoluoboding](https://github.com/xiaoluoboding)
 - [thmsgbrt](https://github.com/thmsgbrt/thmsgbrt)
 - [guilyx](https://github.com/guilyx/guilyx)
+- [jooncco](https://github.com/jooncco)
