@@ -16,4 +16,4 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
         with:
-          CONFIG_FILE: "./.github/workflows/recent-activity.config.yml"
+          CONFIG_FILE: "./.github/recent_activity.config.yml"
