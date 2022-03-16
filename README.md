@@ -63,9 +63,9 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 	</summary>
 	<br/>
 
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
 
 </details>
 
