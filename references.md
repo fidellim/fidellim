@@ -11,7 +11,9 @@
 - [GitHub Readme Streak Stats (Site)](https://github-readme-streak-stats.herokuapp.com/demo/)
 - [GitHub Readme Activity Graph](https://github.com/ashutosh00710/github-readme-activity-graph)
 - [Custom Icon Badges](https://github.com/DenverCoder1/custom-icon-badges)
-- [GitHub Activity README](https://github.com/jamesgeorge007/github-activity-readme)
+- [GitHub Activity README (Old)](https://github.com/jamesgeorge007/github-activity-readme)
+- [GitHub Activity README (New)](https://github.com/Readme-Workflows/recent-activity)
+- [Profile README Workflows](https://github.com/Readme-Workflows)
 
 ## GitHub Profile Examples
 
