@@ -1,6 +1,7 @@
 # References for GitHub Profile README markdown
 
 - [Build a Stunning README for your GitHub Profile](https://martinheinz.dev/blog/29)
+- [Creating a Killer Github Profile Readme](https://daily.dev/blog/creating-a-killer-github-profile-readme-part-1)
 - [GitHub Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 - [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
 - [GitHub Readme Profile List](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
