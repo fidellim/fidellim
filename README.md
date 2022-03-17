@@ -77,7 +77,7 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 17th, 2022, 6:34:38 AM
+Last Updated: Thursday, March 17th, 2022, 2:08:33 PM
 <!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
@@ -91,13 +91,15 @@ Last Updated: Thursday, March 17th, 2022, 6:34:38 AM
 	<br/>
 	
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-8%20hrs%2038%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-488%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 284 Contributions in the Year 2022
  > 
-> 📦 165.7 kB Used in GitHub's Storage 
+> 📦 165.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -169,7 +171,7 @@ C                        4 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/03/2022 21:44:10 UTC
+ Last Updated on 17/03/2022 04:32:37 UTC
 <!--END_SECTION:waka-->
 
 </details>
