@@ -14,6 +14,7 @@
 - [GitHub Activity README (Old)](https://github.com/jamesgeorge007/github-activity-readme)
 - [GitHub Activity README (New)](https://github.com/Readme-Workflows/recent-activity)
 - [Profile README Workflows](https://github.com/Readme-Workflows)
+- [GitHub Token Secret Documentation](https://docs.github.com/en/actions/security-guides/automatic-token-authentication)
 
 ## GitHub Profile Examples
 
