@@ -64,32 +64,8 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 	<br/>
 
 <!--RECENT_ACTIVITY:start-->
-1. 💪 Opened PR [#272](https://github.com/anmol098/waka-readme-stats/pull/272) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-2. 🔱 Forked [fidellim/waka-readme-stats](https://github.com/fidellim/waka-readme-stats) from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-3. 💪 Opened PR [#790](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/790) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-4. 🔱 Forked [fidellim/awesome-github-profile-readme](https://github.com/fidellim/awesome-github-profile-readme) from [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-5. 📔 Created new repository [fidellim/Business-Landing-Page-NextJs](https://github.com/fidellim/Business-Landing-Page-NextJs)
-6. 📔 Created new repository [fidellim/Memories-MERN](https://github.com/fidellim/Memories-MERN)
-7. 📔 Created new repository [fidellim/Memories-MERN](https://github.com/fidellim/Memories-MERN)
-8. 
-9. 
-10. 
-<!--RECENT_ACTIVITY:end-->
-
-1. 💪 Opened PR [#272](https://github.com/anmol098/waka-readme-stats/pull/272) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-2. 🔱 Forked [fidellim/waka-readme-stats](https://github.com/fidellim/waka-readme-stats) from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-3. 💪 Opened PR [#790](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/790) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-4. 🔱 Forked [fidellim/awesome-github-profile-readme](https://github.com/fidellim/awesome-github-profile-readme) from [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-5. 📔 Created new repository [fidellim/Business-Landing-Page-NextJs](https://github.com/fidellim/Business-Landing-Page-NextJs)
-6. 📔 Created new repository [fidellim/Memories-MERN](https://github.com/fidellim/Memories-MERN)
-7. 📔 Created new repository [fidellim/Memories-MERN](https://github.com/fidellim/Memories-MERN)
-8. 📔 Created new repository [fidellim/42-Cursus-Project-Minitalk](https://github.com/fidellim/42-Cursus-Project-Minitalk)
-9.
-10. <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
-Last Updated: Thursday, March 17th, 2022, 8:16:56 PM
-<!--RECENT_ACTIVITY:last_update_end-->
 
 </details>
 
@@ -104,83 +80,82 @@ Last Updated: Thursday, March 17th, 2022, 8:16:56 PM
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-493%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 305 Contributions in the Year 2022
- > 
-> 📦 165.9 kB Used in GitHub's Storage 
- > 
+>
+> 📦 165.9 kB Used in GitHub's Storage
+>
 > 💼 Opted to Hire
- > 
-> 📜 62 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm a Night 🦉** 
+>
+> 📜 62 Public Repositories
+>
+> 🔑 0 Private Repositories
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning    65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.59% 
-🌆 Daytime    202 commits    ██████░░░░░░░░░░░░░░░░░░░   26.68% 
-🌃 Evening    271 commits    █████████░░░░░░░░░░░░░░░░   35.8% 
+🌞 Morning    65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.59%
+🌆 Daytime    202 commits    ██████░░░░░░░░░░░░░░░░░░░   26.68%
+🌃 Evening    271 commits    █████████░░░░░░░░░░░░░░░░   35.8%
 🌙 Night      219 commits    ███████░░░░░░░░░░░░░░░░░░   28.93%
 
 ```
-📅 **I'm Most Productive on Monday** 
+
+📅 **I'm Most Productive on Monday**
 
 ```text
-Monday       140 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.49% 
-Tuesday      84 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.1% 
-Wednesday    80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.57% 
-Thursday     125 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.51% 
-Friday       127 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.78% 
-Saturday     93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.29% 
+Monday       140 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.49%
+Tuesday      84 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.1%
+Wednesday    80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.57%
+Thursday     125 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.51%
+Friday       127 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.78%
+Saturday     93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.29%
 Sunday       108 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.27%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Dubai
 
-💬 Programming Languages: 
-Markdown                 4 hrs 25 mins       ████████████████░░░░░░░░░   64.91% 
-YAML                     2 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.1% 
-Makefile                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33% 
-C                        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51% 
+💬 Programming Languages:
+Markdown                 4 hrs 25 mins       ████████████████░░░░░░░░░   64.91%
+YAML                     2 hrs 11 mins       ████████░░░░░░░░░░░░░░░░░   32.1%
+Makefile                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.33%
+C                        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.51%
 Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.08%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  6 hrs 48 mins       █████████████████████████   100.0%
 
-🐱‍💻 Projects: 
-Github fidellim README   5 hrs 1 min         ██████████████████░░░░░░░   73.84% 
-fidellim_readme          52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.93% 
-awesome-github-profile-re21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.22% 
-waka-readme-stats        21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.17% 
+🐱‍💻 Projects:
+Github fidellim README   5 hrs 1 min         ██████████████████░░░░░░░   73.84%
+fidellim_readme          52 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.93%
+awesome-github-profile-re21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.22%
+waka-readme-stats        21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.17%
 42-minitalk              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.97%
 
-💻 Operating System: 
-Windows                  5 hrs 44 mins       █████████████████████░░░░   84.23% 
+💻 Operating System:
+Windows                  5 hrs 44 mins       █████████████████████░░░░   84.23%
 Mac                      1 hr 4 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.77%
 
 ```
 
-**I Mostly Code in SCSS** 
+**I Mostly Code in SCSS**
 
 ```text
-SCSS                     15 repos            ███████░░░░░░░░░░░░░░░░░░   31.25% 
-HTML                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.83% 
-JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-CSS                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.58% 
+SCSS                     15 repos            ███████░░░░░░░░░░░░░░░░░░   31.25%
+HTML                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.83%
+JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+CSS                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.58%
 C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
 ```
 
+Last Updated on 17/03/2022 18:29:18 UTC
 
-
- Last Updated on 17/03/2022 18:29:18 UTC
 <!--END_SECTION:waka-->
 
 </details>
