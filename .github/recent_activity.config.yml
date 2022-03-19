@@ -1,7 +1,7 @@
 settings:
   username: "fidellim"
   commit_msg: "⚡ Update README with the recent activity ⚡"
-  max_lines: 10
+  max_lines: 5
   readme_file: "./README.md"
   disabled_events:
     - "comments"
