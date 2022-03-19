@@ -5,7 +5,7 @@ on:
   schedule:
     # Runs at 00:00AM UTC
     # - cron: "30 18 * * *"
-    - cron: "0 */2 * * *" # “At minute 0 past every 2nd hour.”
+    - cron: "0 */5 * * *" # “At minute 0 past every 2nd hour.”
 
 jobs:
   update-readme:
@@ -17,6 +17,7 @@ jobs:
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          COMMIT_BY_ME: "True"
           COMMIT_MESSAGE: "💥 Update README with Wakatime and Other GitHub Stats 💥"
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_UPDATED_DATE: "True"
