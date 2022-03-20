@@ -64,6 +64,12 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 	<br/>
 
 <!--RECENT_ACTIVITY:start-->
+1. 📔 Created new repository [fidellim/Tic-Tac-Toe-Socket-IO](https://github.com/fidellim/Tic-Tac-Toe-Socket-IO)
+2. 💪 Opened PR [#273](https://github.com/anmol098/waka-readme-stats/pull/273) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+3. 💪 Opened PR [#272](https://github.com/anmol098/waka-readme-stats/pull/272) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+4. 🔱 Forked [fidellim/waka-readme-stats](https://github.com/fidellim/waka-readme-stats) from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+5. 💪 Opened PR [#790](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/790) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+<!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update_end-->
 
