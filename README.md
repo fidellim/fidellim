@@ -64,16 +64,7 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 	<br/>
 
 <!--RECENT_ACTIVITY:start-->
-1. 📔 Created new repository [fidellim/Tic-Tac-Toe-Socket-IO](https://github.com/fidellim/Tic-Tac-Toe-Socket-IO)
-2. 💪 Opened PR [#273](https://github.com/anmol098/waka-readme-stats/pull/273) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-3. 💪 Opened PR [#272](https://github.com/anmol098/waka-readme-stats/pull/272) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-4. 🔱 Forked [fidellim/waka-readme-stats](https://github.com/fidellim/waka-readme-stats) from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-5. 💪 Opened PR [#790](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/790) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-6. 🔱 Forked [fidellim/awesome-github-profile-readme](https://github.com/fidellim/awesome-github-profile-readme) from [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
-7. 
-8. 
-9. 
-10. 
+
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update-->
@@ -89,80 +80,80 @@ Last Updated: Sunday, March 20th, 2022, 7:05:03 PM
 		Click here for Waka & Other GitHub Stats 📈
 	</summary>
 	<br/>
-	
+
 <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-493%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 318 Contributions in the Year 2022
- > 
-> 📦 166.0 kB Used in GitHub's Storage 
- > 
+ >
+> 📦 166.0 kB Used in GitHub's Storage
+ >
 > 💼 Opted to Hire
- > 
-> 📜 62 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm a Night 🦉** 
+ >
+> 📜 62 Public Repositories
+ >
+> 🔑 0 Private Repositories
+ >
+**I'm a Night 🦉**
 
 ```text
-🌞 Morning    67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.77% 
-🌆 Daytime    207 commits    ██████░░░░░░░░░░░░░░░░░░░   27.09% 
-🌃 Evening    271 commits    ████████░░░░░░░░░░░░░░░░░   35.47% 
+🌞 Morning    67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.77%
+🌆 Daytime    207 commits    ██████░░░░░░░░░░░░░░░░░░░   27.09%
+🌃 Evening    271 commits    ████████░░░░░░░░░░░░░░░░░   35.47%
 🌙 Night      219 commits    ███████░░░░░░░░░░░░░░░░░░   28.66%
 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Monday**
 
 ```text
-Monday       139 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.19% 
-Tuesday      84 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.99% 
-Wednesday    80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.47% 
-Thursday     127 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.62% 
-Friday       125 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.36% 
-Saturday     103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.48% 
+Monday       139 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.19%
+Tuesday      84 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.99%
+Wednesday    80 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.47%
+Thursday     127 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.62%
+Friday       125 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.36%
+Saturday     103 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.48%
 Sunday       106 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.87%
 
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Dubai
 
-💬 Programming Languages: 
-Markdown                 7 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   31.79% 
-YAML                     5 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   22.46% 
-JavaScript               3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.44% 
-C                        2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.2% 
+💬 Programming Languages:
+Markdown                 7 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   31.79%
+YAML                     5 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   22.46%
+JavaScript               3 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.44%
+C                        2 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.2%
 Python                   1 hr                █░░░░░░░░░░░░░░░░░░░░░░░░   4.33%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  23 hrs 21 mins      █████████████████████████   100.0%
 
-🐱‍💻 Projects: 
-Github fidellim README   9 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   39.97% 
-Unknown Project          5 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   22.94% 
-Minitalk                 3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.86% 
-waka-readme-stats        2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.24% 
+🐱‍💻 Projects:
+Github fidellim README   9 hrs 20 mins       ██████████░░░░░░░░░░░░░░░   39.97%
+Unknown Project          5 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   22.94%
+Minitalk                 3 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.86%
+waka-readme-stats        2 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.24%
 tic_tac_toe_socket_io    1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   5.92%
 
-💻 Operating System: 
-Windows                  13 hrs 37 mins      ██████████████░░░░░░░░░░░   58.33% 
+💻 Operating System:
+Windows                  13 hrs 37 mins      ██████████████░░░░░░░░░░░   58.33%
 Mac                      9 hrs 43 mins       ██████████░░░░░░░░░░░░░░░   41.67%
 
 ```
 
-**I Mostly Code in SCSS** 
+**I Mostly Code in SCSS**
 
 ```text
-SCSS                     15 repos            ███████░░░░░░░░░░░░░░░░░░   31.25% 
-HTML                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.83% 
-JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-CSS                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.58% 
+SCSS                     15 repos            ███████░░░░░░░░░░░░░░░░░░   31.25%
+HTML                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.83%
+JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+CSS                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.58%
 C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
 ```
