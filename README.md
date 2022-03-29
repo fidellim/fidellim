@@ -17,7 +17,7 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 - 🌱 I’m currently learning **React**, **NodeJS**, and **Redux**
 - 📝 Check out my [resume](https://drive.google.com/file/d/12o73Dl_-TSjDzTQmxxTFEbZvliw326vH/view?usp=sharing)
 
-### Tools & Technologies
+## Tools & Technologies
 
 ![CSS3](https://img.shields.io/badge/-CSS-157286?logo=css3&style=flat-square)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
@@ -43,7 +43,24 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 ![PWA](https://img.shields.io/badge/-PWA-550EBE?logo=pwa&logoColor=white&style=flat-square)
 
-### Github Stats
+<!-- https://github.com/JaeSeoKim/badge42 -->
+
+## 42 Stats
+
+<details>
+<summary> Click here for &nbsp;
+<img src="https://img.shields.io/badge/-Abu_Dhabi-000000?logo=42&style=flat-square">
+</summary>
+
+<!-- <img src="https://badge42.herokuapp.com/api/stats/flim?privacyEmail=true">
+<img src="https://badge42.herokuapp.com/api/stats/flim?cursus=C%20Piscine&privacyEmail=true"> -->
+
+[![flim's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1c1a9ce001109mq8crq44uh?cursusId=9)](https://github.com/JaeSeoKim/badge42)
+[![flim's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1c1a9ce001109mq8crq44uh?cursusId=21)](https://github.com/JaeSeoKim/badge42)
+
+</details>
+
+## Github Stats
 
 <details>
 	<summary>
@@ -64,6 +81,7 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 	<br/>
 
 <!--RECENT_ACTIVITY:start-->
+
 1. 📔 Created new repository [fidellim/Tic-Tac-Toe-Socket-IO](https://github.com/fidellim/Tic-Tac-Toe-Socket-IO)
 2. 💪 Opened PR [#273](https://github.com/anmol098/waka-readme-stats/pull/273) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 3. 💪 Opened PR [#272](https://github.com/anmol098/waka-readme-stats/pull/272) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
@@ -75,7 +93,7 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 </details>
 
-### Waka & Other Github Stats
+## Waka & Other Github Stats
 
 <details>
 	<summary>
@@ -84,83 +102,83 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 	<br/>
 
 <!--START_SECTION:waka-->
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-493%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 352 Contributions in the Year 2022
- > 
-> 📦 166.1 kB Used in GitHub's Storage 
- > 
+>
+> 📦 166.1 kB Used in GitHub's Storage
+>
 > 💼 Opted to Hire
- > 
-> 📜 62 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm a Night 🦉** 
+>
+> 📜 62 Public Repositories
+>
+> 🔑 0 Private Repositories
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning    66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.63% 
-🌆 Daytime    205 commits    ██████░░░░░░░░░░░░░░░░░░░   26.8% 
-🌃 Evening    269 commits    ████████░░░░░░░░░░░░░░░░░   35.16% 
+🌞 Morning    66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.63%
+🌆 Daytime    205 commits    ██████░░░░░░░░░░░░░░░░░░░   26.8%
+🌃 Evening    269 commits    ████████░░░░░░░░░░░░░░░░░   35.16%
 🌙 Night      225 commits    ███████░░░░░░░░░░░░░░░░░░   29.41%
 
 ```
-📅 **I'm Most Productive on Monday** 
+
+📅 **I'm Most Productive on Monday**
 
 ```text
-Monday       137 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.91% 
-Tuesday      73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.54% 
-Wednesday    83 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.85% 
-Thursday     129 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.86% 
-Friday       127 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.6% 
-Saturday     107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.99% 
+Monday       137 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.91%
+Tuesday      73 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.54%
+Wednesday    83 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.85%
+Thursday     129 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.86%
+Friday       127 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.6%
+Saturday     107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.99%
 Sunday       109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.25%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Dubai
 
-💬 Programming Languages: 
-JavaScript               17 hrs 36 mins      █████████████░░░░░░░░░░░░   53.93% 
-C                        9 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   29.47% 
-Markdown                 3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.25% 
-Text                     2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.33% 
+💬 Programming Languages:
+JavaScript               17 hrs 36 mins      █████████████░░░░░░░░░░░░   53.93%
+C                        9 hrs 37 mins       ███████░░░░░░░░░░░░░░░░░░   29.47%
+Markdown                 3 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.25%
+Text                     2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.33%
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.02%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  32 hrs 38 mins      █████████████████████████   100.0%
 
-🐱‍💻 Projects: 
-Unknown Project          32 hrs 9 mins       ████████████████████████░   98.55% 
-libft                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9% 
+🐱‍💻 Projects:
+Unknown Project          32 hrs 9 mins       ████████████████████████░   98.55%
+libft                    17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.9%
 freeCodeCamp             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55%
 
-💻 Operating System: 
-Mac                      32 hrs 27 mins      ████████████████████████░   99.45% 
+💻 Operating System:
+Mac                      32 hrs 27 mins      ████████████████████████░   99.45%
 Windows                  10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.55%
 
 ```
 
-**I Mostly Code in SCSS** 
+**I Mostly Code in SCSS**
 
 ```text
-SCSS                     15 repos            ███████░░░░░░░░░░░░░░░░░░   31.25% 
-HTML                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.83% 
-JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67% 
-CSS                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.58% 
+SCSS                     15 repos            ███████░░░░░░░░░░░░░░░░░░   31.25%
+HTML                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.83%
+JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67%
+CSS                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.58%
 C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.33%
 
 ```
 
+Last Updated on 29/03/2022 10:28:55 UTC
 
-
- Last Updated on 29/03/2022 10:28:55 UTC
 <!--END_SECTION:waka-->
 
 </details>
@@ -168,15 +186,3 @@ C                        4 repos             ██░░░░░░░░░�
 [![Fidel's github activity graph](https://activity-graph.herokuapp.com/graph?username=fidellim&theme=material-palenight&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
-
-<!-- https://github.com/JaeSeoKim/badge42 -->
-<!-- <details>
-<summary>
-<img src="https://img.shields.io/badge/-Abu_Dhabi-000000?logo=42&style=flat-square">
-</summary>
-
-<img src="https://badge42.herokuapp.com/api/stats/flim?privacyEmail=true">
-<img src="https://badge42.herokuapp.com/api/stats/flim?cursus=C%20Piscine&privacyEmail=true">
-
-</details>
--->
