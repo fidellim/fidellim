@@ -28,7 +28,7 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 ![SCSS](https://img.shields.io/badge/-SASS-C76494?logo=sass&logoColor=white&logoWidth=25&style=flat-square)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-15B3C0?logo=tailwindcss&logoColor=white&logoWidth=25&style=flat-square)
 ![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&logoWidth=25&style=flat-square)
+![GNU Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&logoWidth=25&style=flat-square)
 
 ![Firebase](https://img.shields.io/badge/-Firebase-F05032?logo=firebase&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
