@@ -19,29 +19,46 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 ## Tools & Technologies
 
-![CSS3](https://img.shields.io/badge/-CSS-157286?logo=css3&style=flat-square)
+### 👨‍💻 Programming Languages
+
+![Markdown](https://img.shields.io/badge/-Markdown-000000?logo=markdown&logoColor=white&style=flat-square)
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
-![JS](https://img.shields.io/badge/-Javascript-F7DF1E?logo=javascript&logoColor=black&logoWidth=25&style=flat-square)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat-square)
-![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=black&logoWidth=25&style=flat-square)
-![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&logoWidth=25&style=flat-square)
+![CSS3](https://img.shields.io/badge/-CSS-157286?logo=css3&style=flat-square)
+![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&logoWidth=25&style=flat-square)
+![TS](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=black&logoWidth=25&style=flat-square)
+![Node](https://img.shields.io/badge/-NodeJS-F05032?logo=node.js&logoColor=white&style=flat-square)
 ![SCSS](https://img.shields.io/badge/-SASS-C76494?logo=sass&logoColor=white&logoWidth=25&style=flat-square)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-15B3C0?logo=tailwindcss&logoColor=white&logoWidth=25&style=flat-square)
+![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=white&logoWidth=25&style=flat-square)
 ![C](https://custom-icon-badges.herokuapp.com/badge/C-03599C.svg?logo=c-in-hexagon&logoColor=white&style=flat-square)
+![C++](https://custom-icon-badges.herokuapp.com/badge/C++-CC0000.svg?logo=cpp2&logoColor=white&style=flat-square)
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&logoWidth=25&style=flat-square)
 ![GNU Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&logoWidth=25&style=flat-square)
+
+### 🛠️ Framework and Libraries
+
+![React](https://img.shields.io/badge/-React-000000?logo=react&logoColor=61DAFB&style=flat-square)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-15B3C0?logo=tailwindcss&logoColor=white&logoWidth=25&style=flat-square)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&logoWidth=25)
+![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&logoWidth=25)
+![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white&logoWidth=25)
+
+### ☁️ Database and Cloud Hosting
 
 ![Firebase](https://img.shields.io/badge/-Firebase-F05032?logo=firebase&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
-![Node](https://img.shields.io/badge/-NodeJS-F05032?logo=node.js&logoColor=white&style=flat-square)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square)
+![Heroku](https://img.shields.io/badge/-Heroku-430098?logo=heroku&logoColor=white&logoWidth=25)
+![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat-square)
 
+### 💻 Software and Tools
+
+![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=black&logoWidth=25&style=flat-square)
+![PWA](https://img.shields.io/badge/-PWA-550EBE?logo=pwa&logoColor=white&style=flat-square)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat-square)
 ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe%20xd&logoColor=black&logoWidth=25&style=flat-square)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat-square)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&style=flat-square)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square)
-
-![PWA](https://img.shields.io/badge/-PWA-550EBE?logo=pwa&logoColor=white&style=flat-square)
 
 <!-- https://github.com/JaeSeoKim/badge42 -->
 
@@ -102,85 +119,85 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 	<br/>
 
 <!--START_SECTION:waka-->
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-521%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 359 Contributions in the Year 2022
- > 
-> 📦 166.4 kB Used in GitHub's Storage 
- > 
+>
+> 📦 166.4 kB Used in GitHub's Storage
+>
 > 💼 Opted to Hire
- > 
-> 📜 63 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm a Night 🦉** 
+>
+> 📜 63 Public Repositories
+>
+> 🔑 0 Private Repositories
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning    66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.6% 
-🌆 Daytime    207 commits    ██████░░░░░░░░░░░░░░░░░░░   26.99% 
-🌃 Evening    268 commits    ████████░░░░░░░░░░░░░░░░░   34.94% 
+🌞 Morning    66 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.6%
+🌆 Daytime    207 commits    ██████░░░░░░░░░░░░░░░░░░░   26.99%
+🌃 Evening    268 commits    ████████░░░░░░░░░░░░░░░░░   34.94%
 🌙 Night      226 commits    ███████░░░░░░░░░░░░░░░░░░   29.47%
 
 ```
-📅 **I'm Most Productive on Monday** 
+
+📅 **I'm Most Productive on Monday**
 
 ```text
-Monday       137 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.86% 
-Tuesday      74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.65% 
-Wednesday    84 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.95% 
-Thursday     129 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.82% 
-Friday       127 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.56% 
-Saturday     107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.95% 
+Monday       137 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.86%
+Tuesday      74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.65%
+Wednesday    84 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.95%
+Thursday     129 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.82%
+Friday       127 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.56%
+Saturday     107 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.95%
 Sunday       109 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.21%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Dubai
 
-💬 Programming Languages: 
-JavaScript               16 hrs 12 mins      █████████████░░░░░░░░░░░░   51.55% 
-C                        9 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   29.59% 
-Markdown                 3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.34% 
-Text                     2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.57% 
+💬 Programming Languages:
+JavaScript               16 hrs 12 mins      █████████████░░░░░░░░░░░░   51.55%
+C                        9 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   29.59%
+Markdown                 3 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   11.34%
+Text                     2 hrs 3 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   6.57%
 HTML                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.78%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  31 hrs 25 mins      █████████████████████████   100.0%
 
-🐱‍💻 Projects: 
-Unknown Project          30 hrs 26 mins      ████████████████████████░   96.86% 
-giphy_rest_api_search_app26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39% 
-libft                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63% 
-freeCodeCamp             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58% 
+🐱‍💻 Projects:
+Unknown Project          30 hrs 26 mins      ████████████████████████░   96.86%
+giphy_rest_api_search_app26 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.39%
+libft                    11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.63%
+freeCodeCamp             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.58%
 Github fidellim README   10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54%
 
-💻 Operating System: 
-Mac                      30 hrs 38 mins      ████████████████████████░   97.49% 
+💻 Operating System:
+Mac                      30 hrs 38 mins      ████████████████████████░   97.49%
 Windows                  47 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.51%
 
 ```
 
-**I Mostly Code in SCSS** 
+**I Mostly Code in SCSS**
 
 ```text
-SCSS                     15 repos            ███████░░░░░░░░░░░░░░░░░░   30.61% 
-HTML                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.41% 
-JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.33% 
-CSS                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
+SCSS                     15 repos            ███████░░░░░░░░░░░░░░░░░░   30.61%
+HTML                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   20.41%
+JavaScript               8 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.33%
+CSS                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
 C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   8.16%
 
 ```
 
+Last Updated on 30/03/2022 05:27:04 UTC
 
-
- Last Updated on 30/03/2022 05:27:04 UTC
 <!--END_SECTION:waka-->
 
 </details>
