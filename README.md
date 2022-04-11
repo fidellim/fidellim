@@ -100,8 +100,8 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 📔 Created new repository [fidellim/Giphy-Rest-API-Search-App](https://github.com/fidellim/Giphy-Rest-API-Search-App)
-2. 📔 Created new repository [fidellim/Tic-Tac-Toe-Socket-IO](https://github.com/fidellim/Tic-Tac-Toe-Socket-IO)
+1. 📔 Created new repository [fidellim/Real-Estate-NextJs](https://github.com/fidellim/Real-Estate-NextJs)
+2. 📔 Created new repository [fidellim/Giphy-Rest-API-Search-App](https://github.com/fidellim/Giphy-Rest-API-Search-App)
 3. 💪 Opened PR [#273](https://github.com/anmol098/waka-readme-stats/pull/273) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 4. 🔱 Forked [fidellim/waka-readme-stats](https://github.com/fidellim/waka-readme-stats) from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 5. 💪 Opened PR [#790](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/790) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
