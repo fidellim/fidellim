@@ -42,6 +42,8 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white&logoWidth=25)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?logo=githubactions&logoColor=white&logoWidth=25)
 ![Material Design](https://img.shields.io/badge/-Material_Design-000?logo=materialdesign&logoColor=757575&logoWidth=25)
+![Chakra UI](https://img.shields.io/badge/-Chakra_UI-319795?logo=chakraui&logoColor=fff&logoWidth=25)
+![Next Js](https://img.shields.io/badge/-Next_JS-000?logo=next.js&logoColor=fff&logoWidth=25)
 
 ### ☁️ Database and Cloud Hosting
 
