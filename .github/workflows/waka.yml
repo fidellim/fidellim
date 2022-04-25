@@ -13,7 +13,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       # - uses: anmol098/waka-readme-stats@master #PLEASE USE MASTER BRANCH
-      - uses: fidellim/waka-readme-stats@make_total_code_time_falsy
+      - uses: fidellim/waka-readme-stats@show_total_time
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
