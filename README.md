@@ -104,11 +104,11 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 💪 Opened PR [#279](https://github.com/anmol098/waka-readme-stats/pull/279) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-2. 🔱 Forked [fidellim/waka-readme-stats](https://github.com/fidellim/waka-readme-stats) from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-3. ❌ Closed PR [#278](https://github.com/anmol098/waka-readme-stats/pull/278) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-4. 💪 Opened PR [#278](https://github.com/anmol098/waka-readme-stats/pull/278) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-5. 📔 Created new repository [fidellim/Airboxr-Developer-Assignment](https://github.com/fidellim/Airboxr-Developer-Assignment)
+1. 📔 Created new repository [fidellim/Modern-Ecommerce-App-NextJs-Stripe-Sanity](https://github.com/fidellim/Modern-Ecommerce-App-NextJs-Stripe-Sanity)
+2. 💪 Opened PR [#279](https://github.com/anmol098/waka-readme-stats/pull/279) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+3. 🔱 Forked [fidellim/waka-readme-stats](https://github.com/fidellim/waka-readme-stats) from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+4. ❌ Closed PR [#278](https://github.com/anmol098/waka-readme-stats/pull/278) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+5. 💪 Opened PR [#278](https://github.com/anmol098/waka-readme-stats/pull/278) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update_end-->
