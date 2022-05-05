@@ -104,11 +104,11 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 📔 Created new repository [fidellim/Modern-Ecommerce-App-NextJs-Stripe-Sanity](https://github.com/fidellim/Modern-Ecommerce-App-NextJs-Stripe-Sanity)
-2. 💪 Opened PR [#279](https://github.com/anmol098/waka-readme-stats/pull/279) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-3. 🔱 Forked [fidellim/waka-readme-stats](https://github.com/fidellim/waka-readme-stats) from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-4. ❌ Closed PR [#278](https://github.com/anmol098/waka-readme-stats/pull/278) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-5. 💪 Opened PR [#278](https://github.com/anmol098/waka-readme-stats/pull/278) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+1. 📔 Created new repository [fidellim/Space-Invaders-HTML-SCSS-JS](https://github.com/fidellim/Space-Invaders-HTML-SCSS-JS)
+2. 📔 Created new repository [fidellim/Modern-Ecommerce-App-NextJs-Stripe-Sanity](https://github.com/fidellim/Modern-Ecommerce-App-NextJs-Stripe-Sanity)
+3. 💪 Opened PR [#279](https://github.com/anmol098/waka-readme-stats/pull/279) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+4. 🔱 Forked [fidellim/waka-readme-stats](https://github.com/fidellim/waka-readme-stats) from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+5. ❌ Closed PR [#278](https://github.com/anmol098/waka-readme-stats/pull/278) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update_end-->
