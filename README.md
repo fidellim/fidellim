@@ -104,8 +104,8 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 🎉 Merged PR [#1](https://github.com/fidellim/42-Cursus-Project-Born2beRoot/pull/1) in [fidellim/42-Cursus-Project-Born2beRoot](https://github.com/fidellim/42-Cursus-Project-Born2beRoot)
-2. 📔 Created new repository [fidellim/Space-Invaders-HTML-SCSS-JS](https://github.com/fidellim/Space-Invaders-HTML-SCSS-JS)
+1. 📔 Created new repository [fidellim/QR-Code-Component-FEM](https://github.com/fidellim/QR-Code-Component-FEM)
+2. 🎉 Merged PR [#1](https://github.com/fidellim/42-Cursus-Project-Born2beRoot/pull/1) in [fidellim/42-Cursus-Project-Born2beRoot](https://github.com/fidellim/42-Cursus-Project-Born2beRoot)
 3. 📔 Created new repository [fidellim/Modern-Ecommerce-App-NextJs-Stripe-Sanity](https://github.com/fidellim/Modern-Ecommerce-App-NextJs-Stripe-Sanity)
 4. 💪 Opened PR [#279](https://github.com/anmol098/waka-readme-stats/pull/279) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 5. 🔱 Forked [fidellim/waka-readme-stats](https://github.com/fidellim/waka-readme-stats) from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
