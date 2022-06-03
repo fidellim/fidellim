@@ -124,11 +124,11 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 	<br/>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-566%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-573%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 796 Contributions in the Year 2022
+> 🏆 797 Contributions in the Year 2022
  > 
 > 📦 170.5 kB Used in GitHub's Storage 
  > 
@@ -154,8 +154,8 @@ Monday       146 commits    ████░░░░░░░░░░░░░�
 Tuesday      65 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.01% 
 Wednesday    81 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.99% 
 Thursday     132 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.28% 
-Friday       125 commits    ███░░░░░░░░░░░░░░░░░░░░░░   15.41% 
-Saturday     136 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.77% 
+Friday       126 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.54% 
+Saturday     135 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.65% 
 Sunday       126 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.54%
 
 ```
@@ -202,7 +202,7 @@ C                        4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 03/06/2022 15:30:32 UTC
+ Last Updated on 03/06/2022 20:31:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
