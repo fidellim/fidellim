@@ -104,9 +104,9 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 📔 Created new repository [fidellim/NFT-Preview-Card-Component-FEM](https://github.com/fidellim/NFT-Preview-Card-Component-FEM)
-2. 📔 Created new repository [fidellim/QR-Code-Component-FEM](https://github.com/fidellim/QR-Code-Component-FEM)
-3. 📔 Created new repository [fidellim/Modern-Ecommerce-App-NextJs-Stripe-Sanity](https://github.com/fidellim/Modern-Ecommerce-App-NextJs-Stripe-Sanity)
+1. 📔 Created new repository [fidellim/Advice-Generator-App-FEM](https://github.com/fidellim/Advice-Generator-App-FEM)
+2. 📔 Created new repository [fidellim/NFT-Preview-Card-Component-FEM](https://github.com/fidellim/NFT-Preview-Card-Component-FEM)
+3. 📔 Created new repository [fidellim/QR-Code-Component-FEM](https://github.com/fidellim/QR-Code-Component-FEM)
 4. 💪 Opened PR [#279](https://github.com/anmol098/waka-readme-stats/pull/279) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 5. 🔱 Forked [fidellim/waka-readme-stats](https://github.com/fidellim/waka-readme-stats) from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 <!--RECENT_ACTIVITY:end-->
