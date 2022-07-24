@@ -104,11 +104,11 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 💪 Opened PR [#279](https://github.com/anmol098/waka-readme-stats/pull/279) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-2. 🔱 Forked [fidellim/waka-readme-stats](https://github.com/fidellim/waka-readme-stats) from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-3. ❌ Closed PR [#278](https://github.com/anmol098/waka-readme-stats/pull/278) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-4. 💪 Opened PR [#278](https://github.com/anmol098/waka-readme-stats/pull/278) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-5. 📔 Created new repository [fidellim/Airboxr-Developer-Assignment](https://github.com/fidellim/Airboxr-Developer-Assignment)
+1. 📔 Created new repository [fidellim/IP-Address-Tracker-FEM](https://github.com/fidellim/IP-Address-Tracker-FEM)
+2. 📔 Created new repository [fidellim/NFT-Preview-Card-Component-FEM](https://github.com/fidellim/NFT-Preview-Card-Component-FEM)
+3. 📔 Created new repository [fidellim/QR-Code-Component-FEM](https://github.com/fidellim/QR-Code-Component-FEM)
+4. 💪 Opened PR [#279](https://github.com/anmol098/waka-readme-stats/pull/279) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+5. 🔱 Forked [fidellim/waka-readme-stats](https://github.com/fidellim/waka-readme-stats) from [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update_end-->
@@ -125,40 +125,40 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--START_SECTION:waka-->
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-538%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-623%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data**
 
-> 🏆 528 Contributions in the Year 2022
+> 🏆 1,091 Contributions in the Year 2022
 >
-> 📦 169.0 kB Used in GitHub's Storage
+> 📦 173.1 kB Used in GitHub's Storage
 >
 > 💼 Opted to Hire
 >
-> 📜 65 Public Repositories
+> 📜 71 Public Repositories
 >
 > 🔑 0 Private Repositories
 >
 > **I'm a Night 🦉**
 
 ```text
-🌞 Morning    92 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.75%
-🌆 Daytime    227 commits    ██████░░░░░░░░░░░░░░░░░░░   26.52%
-🌃 Evening    312 commits    █████████░░░░░░░░░░░░░░░░   36.45%
-🌙 Night      225 commits    ██████░░░░░░░░░░░░░░░░░░░   26.29%
+🌞 Morning    75 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.01%
+🌆 Daytime    251 commits    ████████░░░░░░░░░░░░░░░░░   33.51%
+🌃 Evening    287 commits    █████████░░░░░░░░░░░░░░░░   38.32%
+🌙 Night      136 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.16%
 
 ```
 
-📅 **I'm Most Productive on Monday**
+📅 **I'm Most Productive on Sunday**
 
 ```text
-Monday       163 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.04%
-Tuesday      77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.0%
-Wednesday    98 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.45%
-Thursday     126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.72%
-Friday       147 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.17%
-Saturday     126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.72%
-Sunday       119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.9%
+Monday       118 commits    ████░░░░░░░░░░░░░░░░░░░░░   15.75%
+Tuesday      74 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.88%
+Wednesday    67 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.95%
+Thursday     120 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.02%
+Friday       108 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.42%
+Saturday     125 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.69%
+Sunday       137 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.29%
 
 ```
 
@@ -168,40 +168,33 @@ Sunday       119 commits    ███░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages:
-TypeScript               11 hrs 53 mins      ██████████████░░░░░░░░░░░   59.05%
-JavaScript               5 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   27.53%
-Markdown                 1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.58%
-JSON                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73%
-Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54%
+No Activity Tracked This Week
 
 🔥 Editors:
-VS Code                  20 hrs 8 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects:
-Unknown Project          16 hrs 52 mins      █████████████████████░░░░   83.76%
-airboxr-developer-intern-2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.96%
-waka-readme-stats        40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.34%
-giphy_rest_api_search_app19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.65%
-Github fidellim README   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
+No Activity Tracked This Week
 
 💻 Operating System:
-Windows                  14 hrs 13 mins      █████████████████░░░░░░░░   70.62%
-Mac                      5 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   29.38%
+No Activity Tracked This Week
 
 ```
 
 **I Mostly Code in SCSS**
 
 ```text
-SCSS                     15 repos            ███████░░░░░░░░░░░░░░░░░░   29.41%
-HTML                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   19.61%
-JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65%
-CSS                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.73%
-C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.84%
+SCSS                     17 repos            ███████░░░░░░░░░░░░░░░░░░   29.82%
+JavaScript               13 repos            █████░░░░░░░░░░░░░░░░░░░░   22.81%
+HTML                     10 repos            ████░░░░░░░░░░░░░░░░░░░░░   17.54%
+CSS                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.28%
+C                        4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.02%
 
 ```
 
 Last Updated on 26/04/2022 10:36:34 UTC
+
+Last Updated on 24/07/2022 15:27:04 UTC
 
 <!--END_SECTION:waka-->
 
