@@ -16,7 +16,7 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 - 🔭 I’m currently looking for opportunies
 - 🌱 I’m currently learning **React**, **NodeJS**, and **Redux**
-- 📝 Check out my [resume](https://drive.google.com/file/d/1Xw2r7pw5vlz-MzPdGn6E04AJrXk2hRlv/view?usp=sharing)
+- 📝 Check out my [resume](https://fidellim-portfolio.netlify.app/Resume)
 
 ## Tools & Technologies
 
@@ -67,18 +67,18 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!-- https://github.com/JaeSeoKim/badge42 -->
 
-## 42 Stats
+<!-- ## 42 Stats
 
 <details>
 <summary> Click here for &nbsp;
 <img src="https://img.shields.io/badge/-Abu_Dhabi-000000?logo=42&style=flat-square">
-</summary>
+</summary> -->
 
 <!-- <img src="https://badge42.herokuapp.com/api/stats/flim?privacyEmail=true">
 <img src="https://badge42.herokuapp.com/api/stats/flim?cursus=C%20Piscine&privacyEmail=true"> -->
 
-[![flim's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1c1a9ce001109mq8crq44uh?cursusId=9)](https://github.com/JaeSeoKim/badge42)
-[![flim's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1c1a9ce001109mq8crq44uh?cursusId=21)](https://github.com/JaeSeoKim/badge42)
+<!-- [![flim's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1c1a9ce001109mq8crq44uh?cursusId=9)](https://github.com/JaeSeoKim/badge42)
+[![flim's 42 stats](https://badge42.vercel.app/api/v2/stats/cl1c1a9ce001109mq8crq44uh?cursusId=21)](https://github.com/JaeSeoKim/badge42) -->
 
 </details>
 
@@ -124,85 +124,85 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 	<br/>
 
 <!--START_SECTION:waka-->
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-538%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
 > 🏆 528 Contributions in the Year 2022
- > 
-> 📦 169.0 kB Used in GitHub's Storage 
- > 
+>
+> 📦 169.0 kB Used in GitHub's Storage
+>
 > 💼 Opted to Hire
- > 
-> 📜 65 Public Repositories 
- > 
-> 🔑 0 Private Repositories  
- > 
-**I'm a Night 🦉** 
+>
+> 📜 65 Public Repositories
+>
+> 🔑 0 Private Repositories
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning    92 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.75% 
-🌆 Daytime    227 commits    ██████░░░░░░░░░░░░░░░░░░░   26.52% 
-🌃 Evening    312 commits    █████████░░░░░░░░░░░░░░░░   36.45% 
+🌞 Morning    92 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.75%
+🌆 Daytime    227 commits    ██████░░░░░░░░░░░░░░░░░░░   26.52%
+🌃 Evening    312 commits    █████████░░░░░░░░░░░░░░░░   36.45%
 🌙 Night      225 commits    ██████░░░░░░░░░░░░░░░░░░░   26.29%
 
 ```
-📅 **I'm Most Productive on Monday** 
+
+📅 **I'm Most Productive on Monday**
 
 ```text
-Monday       163 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.04% 
-Tuesday      77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.0% 
-Wednesday    98 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.45% 
-Thursday     126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.72% 
-Friday       147 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.17% 
-Saturday     126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.72% 
+Monday       163 commits    ████░░░░░░░░░░░░░░░░░░░░░   19.04%
+Tuesday      77 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.0%
+Wednesday    98 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.45%
+Thursday     126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.72%
+Friday       147 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.17%
+Saturday     126 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.72%
 Sunday       119 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.9%
 
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 ⌚︎ Time Zone: Asia/Dubai
 
-💬 Programming Languages: 
-TypeScript               11 hrs 53 mins      ██████████████░░░░░░░░░░░   59.05% 
-JavaScript               5 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   27.53% 
-Markdown                 1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.58% 
-JSON                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73% 
+💬 Programming Languages:
+TypeScript               11 hrs 53 mins      ██████████████░░░░░░░░░░░   59.05%
+JavaScript               5 hrs 32 mins       ███████░░░░░░░░░░░░░░░░░░   27.53%
+Markdown                 1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   9.58%
+JSON                     32 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   2.73%
 Bash                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.54%
 
-🔥 Editors: 
+🔥 Editors:
 VS Code                  20 hrs 8 mins       █████████████████████████   100.0%
 
-🐱‍💻 Projects: 
-Unknown Project          16 hrs 52 mins      █████████████████████░░░░   83.76% 
-airboxr-developer-intern-2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.96% 
-waka-readme-stats        40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.34% 
-giphy_rest_api_search_app19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.65% 
+🐱‍💻 Projects:
+Unknown Project          16 hrs 52 mins      █████████████████████░░░░   83.76%
+airboxr-developer-intern-2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   10.96%
+waka-readme-stats        40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.34%
+giphy_rest_api_search_app19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.65%
 Github fidellim README   2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.23%
 
-💻 Operating System: 
-Windows                  14 hrs 13 mins      █████████████████░░░░░░░░   70.62% 
+💻 Operating System:
+Windows                  14 hrs 13 mins      █████████████████░░░░░░░░   70.62%
 Mac                      5 hrs 55 mins       ███████░░░░░░░░░░░░░░░░░░   29.38%
 
 ```
 
-**I Mostly Code in SCSS** 
+**I Mostly Code in SCSS**
 
 ```text
-SCSS                     15 repos            ███████░░░░░░░░░░░░░░░░░░   29.41% 
-HTML                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   19.61% 
-JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65% 
-CSS                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.73% 
+SCSS                     15 repos            ███████░░░░░░░░░░░░░░░░░░   29.41%
+HTML                     10 repos            █████░░░░░░░░░░░░░░░░░░░░   19.61%
+JavaScript               9 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.65%
+CSS                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.73%
 C                        4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.84%
 
 ```
 
+Last Updated on 26/04/2022 10:36:34 UTC
 
-
- Last Updated on 26/04/2022 10:36:34 UTC
 <!--END_SECTION:waka-->
 
 </details>
