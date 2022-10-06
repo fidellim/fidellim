@@ -104,11 +104,11 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 📔 Created new repository [fidellim/Drum-Machine](https://github.com/fidellim/Drum-Machine)
-2. 📔 Created new repository [fidellim/Markdown-Previewer](https://github.com/fidellim/Markdown-Previewer)
-3. 📔 Created new repository [fidellim/Product-Preview-Card-Component-FEM](https://github.com/fidellim/Product-Preview-Card-Component-FEM)
-4. 📔 Created new repository [fidellim/HooBank-Landing-Page](https://github.com/fidellim/HooBank-Landing-Page)
-5. 📔 Created new repository [fidellim/Sun_Exam](https://github.com/fidellim/Sun_Exam)
+1. 📔 Created new repository [fidellim/test](https://github.com/fidellim/test)
+2. 📔 Created new repository [fidellim/test](https://github.com/fidellim/test)
+3. 📔 Created new repository [fidellim/ReactJs-TailwindCSS-Boilerplate](https://github.com/fidellim/ReactJs-TailwindCSS-Boilerplate)
+4. 📔 Created new repository [fidellim/Drum-Machine](https://github.com/fidellim/Drum-Machine)
+5. 📔 Created new repository [fidellim/Markdown-Previewer](https://github.com/fidellim/Markdown-Previewer)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update_end-->
