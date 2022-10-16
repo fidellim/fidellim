@@ -104,11 +104,11 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 📔 Created new repository [fidellim/Pomodoro-Timer](https://github.com/fidellim/Pomodoro-Timer)
-2. 📔 Created new repository [fidellim/Calculator-FEM](https://github.com/fidellim/Calculator-FEM)
-3. 📔 Created new repository [fidellim/test](https://github.com/fidellim/test)
+1. 📔 Created new repository [fidellim/React-Native-UI-UX-NFT-Marketplace](https://github.com/fidellim/React-Native-UI-UX-NFT-Marketplace)
+2. 📔 Created new repository [fidellim/Pomodoro-Timer](https://github.com/fidellim/Pomodoro-Timer)
+3. 📔 Created new repository [fidellim/Calculator-FEM](https://github.com/fidellim/Calculator-FEM)
 4. 📔 Created new repository [fidellim/test](https://github.com/fidellim/test)
-5. 📔 Created new repository [fidellim/ReactJs-TailwindCSS-Boilerplate](https://github.com/fidellim/ReactJs-TailwindCSS-Boilerplate)
+5. 📔 Created new repository [fidellim/test](https://github.com/fidellim/test)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update_end-->
