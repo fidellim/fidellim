@@ -104,11 +104,11 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 📔 Created new repository [fidellim/Airhub-Aviation-Technical-Exam](https://github.com/fidellim/Airhub-Aviation-Technical-Exam)
-2. 📔 Created new repository [fidellim/Xpense-Landing-Page](https://github.com/fidellim/Xpense-Landing-Page)
-3. 📔 Created new repository [fidellim/Launch-Countdown-Timer-FEM](https://github.com/fidellim/Launch-Countdown-Timer-FEM)
-4. 📔 Created new repository [fidellim/React-Native-UI-UX-NFT-Marketplace](https://github.com/fidellim/React-Native-UI-UX-NFT-Marketplace)
-5. 📔 Created new repository [fidellim/Pomodoro-Timer](https://github.com/fidellim/Pomodoro-Timer)
+1. 🎉 Merged PR [#1](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/1) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
+2. 💪 Opened PR [#1](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/1) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
+3. 📔 Created new repository [fidellim/Airhub-Aviation-Technical-Exam](https://github.com/fidellim/Airhub-Aviation-Technical-Exam)
+4. 📔 Created new repository [fidellim/Xpense-Landing-Page](https://github.com/fidellim/Xpense-Landing-Page)
+5. 📔 Created new repository [fidellim/Launch-Countdown-Timer-FEM](https://github.com/fidellim/Launch-Countdown-Timer-FEM)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update_end-->
