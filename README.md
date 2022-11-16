@@ -104,11 +104,11 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 🎉 Merged PR [#17](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/17) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
-2. 💪 Opened PR [#17](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/17) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
-3. 💪 Opened PR [#16](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/16) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
-4. 🎉 Merged PR [#15](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/15) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
-5. 💪 Opened PR [#15](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/15) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
+1. 🎉 Merged PR [#21](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/21) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
+2. 💪 Opened PR [#21](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/21) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
+3. ❌ Closed PR [#20](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/20) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
+4. 💪 Opened PR [#20](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/20) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
+5. ❌ Closed PR [#19](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/19) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update_end-->
