@@ -128,7 +128,7 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,393 Contributions in the Year 2022
+> 🏆 2,394 Contributions in the Year 2022
  > 
 > 📦 184.7 kB Used in GitHub's Storage 
  > 
@@ -151,8 +151,8 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 ```text
 Monday       139 commits    ███░░░░░░░░░░░░░░░░░░░░░░   12.0% 
-Tuesday      160 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.82% 
-Wednesday    154 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.3% 
+Tuesday      161 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.9% 
+Wednesday    153 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.21% 
 Thursday     201 commits    ████░░░░░░░░░░░░░░░░░░░░░   17.36% 
 Friday       101 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   8.72% 
 Saturday     165 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.25% 
@@ -199,7 +199,7 @@ C                        4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/11/2022 05:31:27 UTC
+ Last Updated on 29/11/2022 10:35:05 UTC
 <!--END_SECTION:waka-->
 
 </details>
