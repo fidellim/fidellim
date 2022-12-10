@@ -128,7 +128,7 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,503 Contributions in the Year 2022
+> 🏆 2,504 Contributions in the Year 2022
  > 
 > 📦 187.0 kB Used in GitHub's Storage 
  > 
@@ -142,9 +142,9 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 ```text
 🌞 Morning    80 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.6% 
-🌆 Daytime    412 commits    ████████░░░░░░░░░░░░░░░░░   33.97% 
+🌆 Daytime    411 commits    ████████░░░░░░░░░░░░░░░░░   33.88% 
 🌃 Evening    502 commits    ██████████░░░░░░░░░░░░░░░   41.38% 
-🌙 Night      219 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.05%
+🌙 Night      220 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.14%
 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -167,19 +167,16 @@ Sunday       238 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-SCSS                     1 hr 49 mins        ████████████░░░░░░░░░░░░░   49.68% 
-JavaScript               1 hr 44 mins        ████████████░░░░░░░░░░░░░   47.74% 
-Markdown                 5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.58%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 39 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-freshdesk_landing_page   3 hrs 38 mins       █████████████████████████   99.55% 
-fidellim-portfolio-nextjs0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 39 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -196,7 +193,7 @@ C                        4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 09/12/2022 20:36:42 UTC
+ Last Updated on 10/12/2022 01:37:31 UTC
 <!--END_SECTION:waka-->
 
 </details>
