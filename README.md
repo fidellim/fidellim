@@ -128,7 +128,7 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 **🐱 My GitHub Data** 
 
-> 🏆 2,537 Contributions in the Year 2022
+> 🏆 2,538 Contributions in the Year 2022
  > 
 > 📦 187.1 kB Used in GitHub's Storage 
  > 
@@ -141,10 +141,10 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning    78 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.43% 
+🌞 Morning    77 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.35% 
 🌆 Daytime    412 commits    ████████░░░░░░░░░░░░░░░░░   33.97% 
 🌃 Evening    502 commits    ██████████░░░░░░░░░░░░░░░   41.38% 
-🌙 Night      221 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.22%
+🌙 Night      222 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.3%
 
 ```
 📅 **I'm Most Productive on Thursday** 
@@ -167,16 +167,20 @@ Sunday       237 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Dubai
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+PHP                      1 hr 35 mins        █████████████████████░░░░   86.95% 
+Text                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.85% 
+JavaScript               2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.59% 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.32% 
+HTML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.86%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 49 mins        █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+ministopv3               1 hr 49 mins        █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 49 mins        █████████████████████████   100.0%
 
 ```
 
@@ -193,7 +197,7 @@ C                        4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 16/12/2022 20:27:04 UTC
+ Last Updated on 17/12/2022 01:33:36 UTC
 <!--END_SECTION:waka-->
 
 </details>
