@@ -202,6 +202,6 @@ C                        4 repos             █░░░░░░░░░░�
 
 </details>
 
-[![Fidel's github activity graph](https://activity-graph.herokuapp.com/graph?username=fidellim&theme=material-palenight&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Fidel's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=fidellim&theme=material-palenight&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
