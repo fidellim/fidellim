@@ -104,7 +104,7 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 📔 Created new repository [fidellim/i4Asia-Technical-Exam-](https://github.com/fidellim/i4Asia-Technical-Exam-)
+1. ⭐ Starred [amirshnll/custom-device-emulation-chrome](https://github.com/amirshnll/custom-device-emulation-chrome)
 2. 🎉 Merged PR [#32](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/32) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
 3. 💪 Opened PR [#32](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/32) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
 4. 🎉 Merged PR [#31](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/31) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
