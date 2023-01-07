@@ -34,6 +34,7 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 ![C++](https://custom-icon-badges.herokuapp.com/badge/C++-CC0000.svg?logo=cpp2&logoColor=white&style=flat-square)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&logoWidth=25&style=flat-square)
 ![GNU Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white&logoWidth=25&style=flat-square)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&logoWidth=25&style=flat-square)
 
 ### 🛠️ Framework and Libraries
 
@@ -64,6 +65,8 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&style=flat-square)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual%20studio%20code&style=flat-square)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?logo=wordpress&logoColor=white&style=flat-square)
+![Shopify](https://img.shields.io/badge/-Shopify-7AB55C?logo=shopify&logoColor=white&style=flat-square)
 
 <!-- https://github.com/JaeSeoKim/badge42 -->
 
