@@ -131,7 +131,7 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 **🐱 My GitHub Data** 
 
-> 🏆 338 Contributions in the Year 2023
+> 🏆 339 Contributions in the Year 2023
  > 
 > 📦 187.6 kB Used in GitHub's Storage 
  > 
@@ -150,13 +150,13 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 🌙 Night      178 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.7%
 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday       121 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.35% 
 Tuesday      150 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.07% 
-Wednesday    149 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.98% 
-Thursday     215 commits    █████░░░░░░░░░░░░░░░░░░░░   20.17% 
+Wednesday    150 commits    ███░░░░░░░░░░░░░░░░░░░░░░   14.07% 
+Thursday     214 commits    █████░░░░░░░░░░░░░░░░░░░░   20.08% 
 Friday       75 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   7.04% 
 Saturday     141 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.23% 
 Sunday       215 commits    █████░░░░░░░░░░░░░░░░░░░░   20.17%
@@ -204,7 +204,7 @@ C                        4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 08/03/2023 01:52:51 UTC
+ Last Updated on 08/03/2023 10:30:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
