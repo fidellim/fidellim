@@ -107,10 +107,10 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio)
-2. 📔 Created new repository [fidellim/Result-Summary-Component-FEM](https://github.com/fidellim/Result-Summary-Component-FEM)
-3. 💪 Opened PR [#32](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/32) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
-4. 🎉 Merged PR [#31](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/31) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
+1. ❗️ Opened issue [#78](https://github.com/OSSPhilippines/freefolio/issues/78) in [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio)
+2. 💪 Opened PR [#77](https://github.com/OSSPhilippines/freefolio/pull/77) in [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio)
+3. 🔱 Forked [fidellim/freefolio](https://github.com/fidellim/freefolio) from [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio)
+4. ⭐ Starred [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio)
 5. 💪 Opened PR [#31](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/31) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
 <!--RECENT_ACTIVITY:end-->
 
