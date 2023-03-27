@@ -107,11 +107,11 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 💪 Opened PR [#84](https://github.com/OSSPhilippines/freefolio/pull/84) in [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio)
-2. ❗️ Opened issue [#83](https://github.com/OSSPhilippines/freefolio/issues/83) in [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio)
-3. 💪 Opened PR [#82](https://github.com/OSSPhilippines/freefolio/pull/82) in [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio)
-4. ❗️ Opened issue [#81](https://github.com/OSSPhilippines/freefolio/issues/81) in [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio)
-5. 💪 Opened PR [#80](https://github.com/OSSPhilippines/freefolio/pull/80) in [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio)
+1. 💪 Opened PR [#86](https://github.com/OSSPhilippines/freefolio/pull/86) in [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio)
+2. ❗️ Opened issue [#85](https://github.com/OSSPhilippines/freefolio/issues/85) in [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio)
+3. 💪 Opened PR [#84](https://github.com/OSSPhilippines/freefolio/pull/84) in [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio)
+4. ❗️ Opened issue [#83](https://github.com/OSSPhilippines/freefolio/issues/83) in [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio)
+5. 💪 Opened PR [#82](https://github.com/OSSPhilippines/freefolio/pull/82) in [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update_end-->
