@@ -107,11 +107,11 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
-2. 💪 Opened PR [#90](https://github.com/OSSPhilippines/freefolio/pull/90) in [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio)
-3. 💪 Opened PR [#89](https://github.com/OSSPhilippines/freefolio/pull/89) in [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio)
-4. 💪 Opened PR [#88](https://github.com/OSSPhilippines/freefolio/pull/88) in [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio)
-5. ⭐ Starred [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts)
+1. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
+2. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
+3. 💪 Opened PR [#90](https://github.com/OSSPhilippines/freefolio/pull/90) in [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio)
+4. 💪 Opened PR [#89](https://github.com/OSSPhilippines/freefolio/pull/89) in [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio)
+5. 💪 Opened PR [#88](https://github.com/OSSPhilippines/freefolio/pull/88) in [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update_end-->
