@@ -107,11 +107,11 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [trekhleb/javascript-algorithms](https://github.com/trekhleb/javascript-algorithms)
-2. ⭐ Starred [vercel/next.js](https://github.com/vercel/next.js)
-3. 💪 Opened PR [#90](https://github.com/OSSPhilippines/freefolio/pull/90) in [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio)
-4. 💪 Opened PR [#89](https://github.com/OSSPhilippines/freefolio/pull/89) in [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio)
-5. 💪 Opened PR [#88](https://github.com/OSSPhilippines/freefolio/pull/88) in [OSSPhilippines/freefolio](https://github.com/OSSPhilippines/freefolio)
+1. 🎉 Merged PR [#38](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/38) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
+2. 💪 Opened PR [#38](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/38) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
+3. 🎉 Merged PR [#37](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/37) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
+4. 💪 Opened PR [#37](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/37) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
+5. 🎉 Merged PR [#36](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/36) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update_end-->
