@@ -107,11 +107,11 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT)
-2. ⭐ Starred [shadcn/taxonomy](https://github.com/shadcn/taxonomy)
-3. 🎉 Merged PR [#38](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/38) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
-4. 💪 Opened PR [#38](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/38) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
-5. 🎉 Merged PR [#37](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/37) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
+1. ⭐ Starred [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design)
+2. ⭐ Starred [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT)
+3. ⭐ Starred [shadcn/taxonomy](https://github.com/shadcn/taxonomy)
+4. 🎉 Merged PR [#38](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/38) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
+5. 💪 Opened PR [#38](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/38) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update_end-->
