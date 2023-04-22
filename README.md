@@ -107,11 +107,11 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design)
-2. ⭐ Starred [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT)
-3. ⭐ Starred [shadcn/taxonomy](https://github.com/shadcn/taxonomy)
-4. 🎉 Merged PR [#38](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/38) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
-5. 💪 Opened PR [#38](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/38) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
+1. 💪 Opened PR [#21](https://github.com/OSSPhilippines/ossph.org/pull/21) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
+2. 🔱 Forked [fidellim/ossph.org](https://github.com/fidellim/ossph.org) from [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
+3. ⭐ Starred [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design)
+4. ⭐ Starred [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT)
+5. ⭐ Starred [shadcn/taxonomy](https://github.com/shadcn/taxonomy)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update_end-->
