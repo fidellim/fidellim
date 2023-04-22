@@ -107,11 +107,11 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 💪 Opened PR [#21](https://github.com/OSSPhilippines/ossph.org/pull/21) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
-2. 🔱 Forked [fidellim/ossph.org](https://github.com/fidellim/ossph.org) from [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
-3. ⭐ Starred [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design)
-4. ⭐ Starred [Torantulino/Auto-GPT](https://github.com/Torantulino/Auto-GPT)
-5. ⭐ Starred [shadcn/taxonomy](https://github.com/shadcn/taxonomy)
+1. 💪 Opened PR [#23](https://github.com/OSSPhilippines/ossph.org/pull/23) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
+2. 💪 Opened PR [#22](https://github.com/OSSPhilippines/ossph.org/pull/22) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
+3. 💪 Opened PR [#21](https://github.com/OSSPhilippines/ossph.org/pull/21) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
+4. 🔱 Forked [fidellim/ossph.org](https://github.com/fidellim/ossph.org) from [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
+5. ⭐ Starred [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update_end-->
