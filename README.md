@@ -107,11 +107,11 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 💪 Opened PR [#23](https://github.com/OSSPhilippines/ossph.org/pull/23) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
-2. 💪 Opened PR [#22](https://github.com/OSSPhilippines/ossph.org/pull/22) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
-3. 💪 Opened PR [#21](https://github.com/OSSPhilippines/ossph.org/pull/21) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
-4. 🔱 Forked [fidellim/ossph.org](https://github.com/fidellim/ossph.org) from [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
-5. ⭐ Starred [karanpratapsingh/system-design](https://github.com/karanpratapsingh/system-design)
+1. 💪 Opened PR [#27](https://github.com/OSSPhilippines/philippines-travel-level-map/pull/27) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+2. ❗️ Opened issue [#26](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/26) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+3. 🔱 Forked [fidellim/philippines-travel-level-map](https://github.com/fidellim/philippines-travel-level-map) from [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+4. 💪 Opened PR [#23](https://github.com/OSSPhilippines/ossph.org/pull/23) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
+5. 💪 Opened PR [#22](https://github.com/OSSPhilippines/ossph.org/pull/22) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update_end-->
