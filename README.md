@@ -131,13 +131,13 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 **🐱 My GitHub Data** 
 
-> 🏆 685 Contributions in the Year 2023
+> 🏆 689 Contributions in the Year 2023
  > 
 > 📦 187.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 89 Public Repositories 
+> 📜 90 Public Repositories 
  > 
 > 🔑 0 Private Repositories  
  > 
@@ -154,7 +154,7 @@ C                        4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 26/04/2023 15:29:11 UTC
+ Last Updated on 26/04/2023 20:25:42 UTC
 <!--END_SECTION:waka-->
 
 </details>
