@@ -127,34 +127,34 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 	<br/>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-751%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-752%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 858 Contributions in the Year 2023
+> 🏆 888 Contributions in the Year 2023
  > 
-> 📦 187.7 kB Used in GitHub's Storage 
+> 📦 187.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
 > 📜 90 Public Repositories 
  > 
-> 🔑 0 Private Repositories  
+> 🔑 1 Private Repository 
  > 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               29 repos            █████████░░░░░░░░░░░░░░░░   39.19% 
-SCSS                     17 repos            █████░░░░░░░░░░░░░░░░░░░░   22.97% 
-HTML                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   14.86% 
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.46% 
-C                        4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.41%
+JavaScript               29 repos            █████████░░░░░░░░░░░░░░░░   38.67% 
+SCSS                     17 repos            █████░░░░░░░░░░░░░░░░░░░░   22.67% 
+HTML                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   14.67% 
+CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.33% 
+C                        4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.33%
 
 ```
 
 
 
- Last Updated on 28/05/2023 05:28:35 UTC
+ Last Updated on 28/05/2023 10:26:52 UTC
 <!--END_SECTION:waka-->
 
 </details>
