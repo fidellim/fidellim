@@ -107,11 +107,11 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [amirshnll/custom-device-emulation-chrome](https://github.com/amirshnll/custom-device-emulation-chrome)
-2. 🎉 Merged PR [#32](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/32) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
-3. 💪 Opened PR [#32](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/32) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
-4. 🎉 Merged PR [#31](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/31) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
-5. 💪 Opened PR [#31](https://github.com/ObelusFamily/Anythink-Market-pvk6t/pull/31) in [ObelusFamily/Anythink-Market-pvk6t](https://github.com/ObelusFamily/Anythink-Market-pvk6t)
+1. 📔 Created new repository [fidellim/Ehrlich-Technical-Exam](https://github.com/fidellim/Ehrlich-Technical-Exam)
+2. 💪 Opened PR [#27](https://github.com/OSSPhilippines/philippines-travel-level-map/pull/27) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+3. ❗️ Opened issue [#26](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/26) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+4. 🔱 Forked [fidellim/philippines-travel-level-map](https://github.com/fidellim/philippines-travel-level-map) from [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+5. 💪 Opened PR [#23](https://github.com/OSSPhilippines/ossph.org/pull/23) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update_end-->
@@ -127,84 +127,34 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 	<br/>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-749%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-753%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 29 Contributions in the Year 2023
+> 🏆 1,219 Contributions in the Year 2023
  > 
-> 📦 187.2 kB Used in GitHub's Storage 
+> 📦 192.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 86 Public Repositories 
+> 📜 91 Public Repositories 
  > 
-> 🔑 0 Private Repositories  
+> 🔑 1 Private Repository 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    76 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.27% 
-🌆 Daytime    413 commits    ████████░░░░░░░░░░░░░░░░░   34.05% 
-🌃 Evening    501 commits    ██████████░░░░░░░░░░░░░░░   41.3% 
-🌙 Night      223 commits    ████░░░░░░░░░░░░░░░░░░░░░   18.38%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       135 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   11.13% 
-Tuesday      160 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.19% 
-Wednesday    164 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.52% 
-Thursday     239 commits    █████░░░░░░░░░░░░░░░░░░░░   19.7% 
-Friday       112 commits    ██░░░░░░░░░░░░░░░░░░░░░░░   9.23% 
-Saturday     165 commits    ███░░░░░░░░░░░░░░░░░░░░░░   13.6% 
-Sunday       238 commits    █████░░░░░░░░░░░░░░░░░░░░   19.62%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-CSS                      3 hrs 56 mins       ████████████░░░░░░░░░░░░░   49.76% 
-PHP                      3 hrs 38 mins       ███████████░░░░░░░░░░░░░░   46.05% 
-Git Config               14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   3.07% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29% 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.25%
-
-🔥 Editors: 
-VS Code                  7 hrs 55 mins       █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-ntfp-revamp              4 hrs 50 mins       ███████████████░░░░░░░░░░   61.15% 
-deg-v2                   1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   19.08% 
-ministopv3               1 hr 25 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.93% 
-hoobank-wp               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.45% 
-NTFP                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.39%
-
-💻 Operating System: 
-Windows                  7 hrs 55 mins       █████████████████████████   100.0%
-
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               28 repos            █████████░░░░░░░░░░░░░░░░   38.36% 
-SCSS                     17 repos            █████░░░░░░░░░░░░░░░░░░░░   23.29% 
-HTML                     11 repos            ███░░░░░░░░░░░░░░░░░░░░░░   15.07% 
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.59% 
-C                        4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.48%
+JavaScript               29 repos            █████████░░░░░░░░░░░░░░░░   38.16% 
+SCSS                     17 repos            █████░░░░░░░░░░░░░░░░░░░░   22.37% 
+HTML                     12 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
+CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.21% 
+C                        4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
 
 ```
 
 
 
- Last Updated on 07/01/2023 12:09:39 UTC
+ Last Updated on 23/07/2023 05:23:01 UTC
 <!--END_SECTION:waka-->
 
 </details>
