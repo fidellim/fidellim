@@ -107,8 +107,8 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 📔 Created new repository [fidellim/Ehrlich-Technical-Exam](https://github.com/fidellim/Ehrlich-Technical-Exam)
-2. 💪 Opened PR [#27](https://github.com/OSSPhilippines/philippines-travel-level-map/pull/27) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+1. 📔 Created new repository [fidellim/Kazix-Technical-Exam](https://github.com/fidellim/Kazix-Technical-Exam)
+2. ⭐ Starred [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
 3. ❗️ Opened issue [#26](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/26) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
 4. 🔱 Forked [fidellim/philippines-travel-level-map](https://github.com/fidellim/philippines-travel-level-map) from [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
 5. 💪 Opened PR [#23](https://github.com/OSSPhilippines/ossph.org/pull/23) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
@@ -127,34 +127,34 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 	<br/>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-753%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-754%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 1,219 Contributions in the Year 2023
+> 🏆 1,493 Contributions in the Year 2023
  > 
-> 📦 192.2 kB Used in GitHub's Storage 
+> 📦 206.0 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 91 Public Repositories 
+> 📜 92 Public Repositories 
  > 
 > 🔑 1 Private Repository 
  > 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               29 repos            █████████░░░░░░░░░░░░░░░░   38.16% 
-SCSS                     17 repos            █████░░░░░░░░░░░░░░░░░░░░   22.37% 
-HTML                     12 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.21% 
-C                        4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.26%
+JavaScript               30 repos            █████████░░░░░░░░░░░░░░░░   38.96% 
+SCSS                     17 repos            █████░░░░░░░░░░░░░░░░░░░░   22.08% 
+HTML                     12 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.58% 
+CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+C                        4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   5.19%
 
 ```
 
 
 
- Last Updated on 23/07/2023 05:23:01 UTC
+ Last Updated on 31/08/2023 20:26:24 UTC
 <!--END_SECTION:waka-->
 
 </details>
