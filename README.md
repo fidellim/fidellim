@@ -107,7 +107,7 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 📔 Created new repository [fidellim/Kazix-Technical-Exam](https://github.com/fidellim/Kazix-Technical-Exam)
+1. 📔 Created new repository [fidellim/Amazon-Forest-Parallax](https://github.com/fidellim/Amazon-Forest-Parallax)
 2. ⭐ Starred [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
 3. ❗️ Opened issue [#26](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/26) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
 4. 🔱 Forked [fidellim/philippines-travel-level-map](https://github.com/fidellim/philippines-travel-level-map) from [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
