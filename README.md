@@ -107,10 +107,10 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--RECENT_ACTIVITY:start-->
 
-1. 📔 Created new repository [fidellim/Amazon-Forest-Parallax](https://github.com/fidellim/Amazon-Forest-Parallax)
-2. ⭐ Starred [webdevcody/code-racer](https://github.com/webdevcody/code-racer)
-3. ❗️ Opened issue [#26](https://github.com/OSSPhilippines/philippines-travel-level-map/issues/26) in [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
-4. 🔱 Forked [fidellim/philippines-travel-level-map](https://github.com/fidellim/philippines-travel-level-map) from [OSSPhilippines/philippines-travel-level-map](https://github.com/OSSPhilippines/philippines-travel-level-map)
+1. ⭐ Starred [Nutlope/qrGPT](https://github.com/Nutlope/qrGPT)
+2. ⭐ Starred [Nutlope/restorePhotos](https://github.com/Nutlope/restorePhotos)
+3. ⭐ Starred [Nutlope/aicommits](https://github.com/Nutlope/aicommits)
+4. 📔 Created new repository [fidellim/Amazon-Forest-Parallax](https://github.com/fidellim/Amazon-Forest-Parallax)
 5. 💪 Opened PR [#23](https://github.com/OSSPhilippines/ossph.org/pull/23) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
 <!--RECENT_ACTIVITY:end-->
 
