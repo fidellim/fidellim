@@ -107,11 +107,11 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [Nutlope/qrGPT](https://github.com/Nutlope/qrGPT)
-2. ⭐ Starred [Nutlope/restorePhotos](https://github.com/Nutlope/restorePhotos)
-3. ⭐ Starred [Nutlope/aicommits](https://github.com/Nutlope/aicommits)
-4. 📔 Created new repository [fidellim/Amazon-Forest-Parallax](https://github.com/fidellim/Amazon-Forest-Parallax)
-5. 💪 Opened PR [#23](https://github.com/OSSPhilippines/ossph.org/pull/23) in [OSSPhilippines/ossph.org](https://github.com/OSSPhilippines/ossph.org)
+1. ⭐ Starred [Pondorasti/emojis](https://github.com/Pondorasti/emojis)
+2. ⭐ Starred [Nutlope/qrGPT](https://github.com/Nutlope/qrGPT)
+3. ⭐ Starred [Nutlope/restorePhotos](https://github.com/Nutlope/restorePhotos)
+4. ⭐ Starred [Nutlope/aicommits](https://github.com/Nutlope/aicommits)
+5. 📔 Created new repository [fidellim/Amazon-Forest-Parallax](https://github.com/fidellim/Amazon-Forest-Parallax)
 <!--RECENT_ACTIVITY:end-->
 
 <!--RECENT_ACTIVITY:last_update_end-->
