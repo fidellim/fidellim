@@ -10,13 +10,13 @@
 
 [<img src="https://komarev.com/ghpvc/?username=fidellim&label=Profile%20views&color=0e75b6&style=flat-square" alt="fidellim" />](https://github.com/fidellim/fidellim)
 [<img src="https://img.shields.io/badge/Email-lim.fidel%40gmail.com-orange?style=flat-square&logo=gmail">](mailto:lim.fidel@gmail.com)
-[<img src="https://img.shields.io/badge/Personal%20Site-fidellim--portfolio.netlify.app-red?style=flat-square&logo=safari">](https://fidellim-portfolio.netlify.app/)
+[<img src="https://img.shields.io/badge/Personal%20Site-fidellim.dev-red?style=flat-square&logo=safari">](https://fidellim.dev/resume)
 
 I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX designer. At the moment, I am focused on design and implement front-end projects to build up my portfolio. Whenever I have free time, I try to learn other technologies.
 
 - 🔭 I’m currently looking for opportunies
 - 🌱 I’m currently learning **React**, **NodeJS**, and **Redux**
-- 📝 Check out my [resume](https://fidellim-portfolio.netlify.app/Resume)
+- 📝 Check out my [resume](https://fidellim.dev/resume)
 
 ## Tools & Technologies
 
