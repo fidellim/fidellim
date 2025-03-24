@@ -133,6 +133,8 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 > 📦 210.3 kB Used in GitHub's Storage 
  > 
+> 🏆 423 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 94 Public Repositories 
@@ -142,7 +144,7 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1441 commits        █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+🌞 Morning                1442 commits        █████░░░░░░░░░░░░░░░░░░░░   19.73 % 
 🌆 Daytime                1672 commits        ██████░░░░░░░░░░░░░░░░░░░   22.88 % 
 🌃 Evening                1890 commits        ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
 🌙 Night                  2305 commits        ████████░░░░░░░░░░░░░░░░░   31.54 % 
@@ -150,7 +152,7 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1042 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Monday                   1043 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.27 % 
 Tuesday                  973 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
 Wednesday                1011 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
 Thursday                 1122 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
@@ -191,7 +193,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/03/2025 05:24:00 UTC
+ Last Updated on 24/03/2025 10:27:23 UTC
 <!--END_SECTION:waka-->
 
 </details>
