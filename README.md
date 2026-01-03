@@ -133,7 +133,7 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 > 📦 210.9 kB Used in GitHub's Storage 
  > 
-> 🏆 9 Contributions in the Year 2026
+> 🏆 11 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -141,45 +141,6 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1831 commits        █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
-🌆 Daytime                1954 commits        ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-🌃 Evening                2169 commits        ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
-🌙 Night                  2766 commits        ████████░░░░░░░░░░░░░░░░░   31.72 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   1243 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-Tuesday                  1175 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.47 % 
-Wednesday                1214 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
-Thursday                 1324 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.18 % 
-Friday                   1147 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Saturday                 1195 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
-Sunday                   1422 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -193,7 +154,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/01/2026 05:29:07 UTC
+ Last Updated on 03/01/2026 10:29:01 UTC
 <!--END_SECTION:waka-->
 
 </details>
