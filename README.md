@@ -127,13 +127,13 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 	<br/>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.26%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.26%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 210.8 kB Used in GitHub's Storage 
  > 
-> 🏆 21 Contributions in the Year 2026
+> 🏆 22 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -144,15 +144,15 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1835 commits        █████░░░░░░░░░░░░░░░░░░░░   21.02 % 
+🌞 Morning                1835 commits        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
 🌆 Daytime                1957 commits        ██████░░░░░░░░░░░░░░░░░░░   22.41 % 
-🌃 Evening                2171 commits        ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+🌃 Evening                2172 commits        ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
 🌙 Night                  2768 commits        ████████░░░░░░░░░░░░░░░░░   31.70 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1247 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Monday                   1248 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 Tuesday                  1175 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
 Wednesday                1214 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
 Thursday                 1324 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
@@ -193,7 +193,7 @@ Python                   1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 05/01/2026 15:33:15 UTC
+ Last Updated on 05/01/2026 20:34:27 UTC
 <!--END_SECTION:waka-->
 
 </details>
