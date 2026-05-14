@@ -107,7 +107,7 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [ByteByteGoHq/system-design-101](https://github.com/ByteByteGoHq/system-design-101)
+1. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)
 2. 📔 Created new repository [fidellim/Pricewise](https://github.com/fidellim/Pricewise)
 3. ⭐ Starred [Pondorasti/emojis](https://github.com/Pondorasti/emojis)
 4. ⭐ Starred [Nutlope/aicommits](https://github.com/Nutlope/aicommits)
