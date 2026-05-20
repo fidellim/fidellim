@@ -107,8 +107,8 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)
-2. 📔 Created new repository [fidellim/Pricewise](https://github.com/fidellim/Pricewise)
+1. ⭐ Starred [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)
+2. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)
 3. ⭐ Starred [Pondorasti/emojis](https://github.com/Pondorasti/emojis)
 4. ⭐ Starred [Nutlope/aicommits](https://github.com/Nutlope/aicommits)
 5. 📔 Created new repository [fidellim/Amazon-Forest-Parallax](https://github.com/fidellim/Amazon-Forest-Parallax)
