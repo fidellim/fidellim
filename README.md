@@ -107,7 +107,7 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail)
+1. ⭐ Starred [pyenv/pyenv](https://github.com/pyenv/pyenv)
 2. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)
 3. ⭐ Starred [Pondorasti/emojis](https://github.com/Pondorasti/emojis)
 4. ⭐ Starred [Nutlope/aicommits](https://github.com/Nutlope/aicommits)
