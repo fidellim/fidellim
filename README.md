@@ -107,9 +107,9 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [pyenv/pyenv](https://github.com/pyenv/pyenv)
-2. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)
-3. ⭐ Starred [Pondorasti/emojis](https://github.com/Pondorasti/emojis)
+1. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)
+2. ⭐ Starred [emilkowalski/skills](https://github.com/emilkowalski/skills)
+3. ⭐ Starred [pyenv/pyenv](https://github.com/pyenv/pyenv)
 4. ⭐ Starred [Nutlope/aicommits](https://github.com/Nutlope/aicommits)
 5. 📔 Created new repository [fidellim/Amazon-Forest-Parallax](https://github.com/fidellim/Amazon-Forest-Parallax)
 <!--RECENT_ACTIVITY:end-->
