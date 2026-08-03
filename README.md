@@ -107,10 +107,10 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 
 <!--RECENT_ACTIVITY:start-->
 
-1. ⭐ Starred [digimata/quill](https://github.com/digimata/quill)
-2. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)
-3. ⭐ Starred [emilkowalski/skills](https://github.com/emilkowalski/skills)
-4. ⭐ Starred [pyenv/pyenv](https://github.com/pyenv/pyenv)
+1. ⭐ Starred [oblien/openship](https://github.com/oblien/openship)
+2. ⭐ Starred [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x)
+3. ⭐ Starred [digimata/quill](https://github.com/digimata/quill)
+4. ⭐ Starred [mattpocock/skills](https://github.com/mattpocock/skills)
 5. 📔 Created new repository [fidellim/Amazon-Forest-Parallax](https://github.com/fidellim/Amazon-Forest-Parallax)
 <!--RECENT_ACTIVITY:end-->
 
