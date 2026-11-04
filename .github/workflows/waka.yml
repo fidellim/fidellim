@@ -3,9 +3,13 @@ name: Waka Readme
 on:
   workflow_dispatch:
   schedule:
-    # Runs at 00:00AM UTC
-    # - cron: "30 18 * * *"
-    - cron: "0 */5 * * *" # “At minute 0 past every 2nd hour.”
+    # Daily at 20:17 UTC (00:17 Asia/Dubai).
+    - cron: "17 20 * * *"
+
+# Both workflows write to this repository; serialize their updates.
+concurrency:
+  group: profile-readme-updates
+  cancel-in-progress: false
 
 jobs:
   update-readme:

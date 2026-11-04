@@ -18,6 +18,21 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 - 🌱 I’m currently learning **React**, **NodeJS**, and **Redux**
 - 📝 Check out my [resume](https://fidellim.dev/resume)
 
+## Featured Projects
+
+My four most-starred public repositories, excluding forks and this profile. Refreshed daily; ties are sorted by repository name.
+
+<!--FEATURED_PROJECTS:start-->
+
+| Project | Stars | Language | About |
+| --- | ---: | --- | --- |
+| [42 Cursus Project Born2beRoot](https://github.com/fidellim/42-Cursus-Project-Born2beRoot) | ⭐ 13 | Shell | You will create your first machine in VirtualBox under specific instructions. Then, at the end of this project, you will be able to set up your own operating… |
+| [Business Landing Page NextJs](https://github.com/fidellim/Business-Landing-Page-NextJs) | ⭐ 12 | JavaScript | Explore the source code and project README. |
+| [50ProjectsIn50Days HTML CSS JS](https://github.com/fidellim/50ProjectsIn50Days_HTML_CSS_JS) | ⭐ 6 | CSS | A compilation of Projects done within 50 days using HTML, CSS, and JS. |
+| [Modern Ecommerce App NextJs Stripe Sanity](https://github.com/fidellim/Modern-Ecommerce-App-NextJs-Stripe-Sanity) | ⭐ 6 | JavaScript | A modern full-stack ecommerce NextJs application using Stripe and Sanity |
+
+<!--FEATURED_PROJECTS:end-->
+
 ## Tools & Technologies
 
 ### 👨‍💻 Programming Languages
@@ -93,8 +108,8 @@ I am a frontend developer and aspiring to be a fullstack develeoper and UI/UX de
 	</summary>
 	<br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fidellim&layout=compact&langs_count=8&hide=scss,css,html&theme=dracula&border_color=ff4499" alt="fidellim" />
-<img src="https://github-readme-stats.vercel.app/api?username=fidellim&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="fidellim" />
+<img src="charts/top-languages.svg" alt="Fidel's most-used repository languages" />
+<img src="charts/github-stats.svg" alt="Fidel's GitHub contribution statistics" />
 <img src="https://github-readme-streak-stats.herokuapp.com?user=fidellim&theme=material-palenight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="fidellim" />
 
 </details>
@@ -204,6 +219,6 @@ PHP                      3 repos             █░░░░░░░░░░�
 
 </details>
 
-[![Fidel's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=fidellim&theme=material-palenight&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Fidel's GitHub activity graph](charts/activity-graph.svg)](https://github.com/maurodesouza/github-readme-activity-graph-action)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>

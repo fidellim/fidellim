@@ -1,19 +1,81 @@
-name: Update GitHub Activity
+name: Update GitHub Profile
 
 on:
   schedule:
-    - cron: "0 */10 * * *" # “At minute 0 past every 10th hour.”
+    # Daily at 20:47 UTC (00:47 Asia/Dubai).
+    - cron: "47 20 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-readme-updates
+  cancel-in-progress: false
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Update this repo's README with recent activity
+    name: Update activity, cards, and featured projects
 
     steps:
-      - uses: actions/checkout@v2.3.4
+      - uses: actions/checkout@v6
       - uses: Readme-Workflows/recent-activity@v2.3.2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           CONFIG_FILE: "./.github/recent_activity.config.yml"
+
+      - name: Update most-starred featured projects
+        if: ${{ !cancelled() }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_OWNER: ${{ github.repository_owner }}
+        run: python3 .github/scripts/update_featured_projects.py "$PROFILE_OWNER"
+
+      - name: Generate GitHub stats card
+        if: ${{ !cancelled() }}
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&locale=en&theme=tokyonight&hide_border=true
+          path: charts/github-stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: "true"
+
+      - name: Generate top languages card
+        if: ${{ !cancelled() }}
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=8&hide=scss,css,html&theme=dracula&border_color=ff4499
+          path: charts/top-languages.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: "true"
+
+      - name: Generate activity graph
+        id: graph
+        # A recent-activity failure should not prevent the graph from refreshing.
+        if: ${{ !cancelled() }}
+        uses: maurodesouza/github-readme-activity-graph-action@v1
+        with:
+          username: ${{ github.repository_owner }}
+          options: theme=material-palenight&hide_border=true
+          output_path: charts/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit generated profile content if changed
+        if: ${{ !cancelled() }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          for asset in charts/activity-graph.svg charts/github-stats.svg charts/top-languages.svg; do
+            if [ -f "$asset" ]; then
+              git add "$asset"
+            fi
+          done
+          if ! git diff --cached --quiet; then
+            git commit -m "Update GitHub profile cards and projects"
+            git push
+          fi
