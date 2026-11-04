@@ -57,7 +57,8 @@ jobs:
         id: graph
         # A recent-activity failure should not prevent the graph from refreshing.
         if: ${{ !cancelled() }}
-        uses: maurodesouza/github-readme-activity-graph-action@v1
+        # Upstream runtime/cache fix; v1 still depends on the Node.js 20 cache action.
+        uses: maurodesouza/github-readme-activity-graph-action@9b38b03cac7ffb9f093a82f0ea9c634d5df62297
         with:
           username: ${{ github.repository_owner }}
           options: theme=material-palenight&hide_border=true
