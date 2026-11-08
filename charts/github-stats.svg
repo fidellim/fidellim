@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Fidel Lim&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 61, Total Commits  (last year) : 1871, Total PRs: 131, Total Issues: 6, Contributed to (last year): 0</desc>
+        <desc id="descId">Total Stars Earned: 61, Total Commits  (last year) : 1872, Total PRs: 131, Total Issues: 6, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 89.81954010286567;
+        stroke-dashoffset: 89.81889226899087;
       }
     }
   
